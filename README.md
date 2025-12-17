@@ -63,3 +63,75 @@
  * RTH (Return to Home)
  * Las antenas de los controles deben estar paradas donde toda la antena tenga cobertura al drone (NO SOLO LA PUNTA APUNTANDO AL DRONE)
  * Conexion entre Drone y control de forma electromagnetica a 2.4 Ghz
+
+ # Aerodinamica
+ Rama de mecanica de fluidos que estudia las acciones que aparecen sobre los cuerpos solidos, (aviones, drones) el fluido es un gas (aire)  
+
+ 
+  ## Propiedades de la Atmosfera
+  * Capa gaseosa que rodea la tierra (mezcla diferentes gases)
+  * Tiene propiedades de masa y peso
+  * Fluido que ccambia en funciona la presion
+  * Compuesta 78 Nitrgeno,21% oxigeno y 1 % otros gases
+  * A mayor altura menor presion dificil respirar
+  * Capas de la atmosfera  TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA y EXOSFERA
+    
+   ### TROPOSFERA 
+   * De 0 a 12 km y se encuentra
+   *  20 Grados
+   *   viacion comercial
+   *   Nubes tipo nimbo o fenomenos de precipitacion o metereologicos
+   *   Globos Tripulados
+
+  #### ESTRATOSFERA
+  * De 12 km a 50 km
+  * de -60 a -5 grados
+  * Aviones supersonicos o  militares
+  * Capa ozono
+  * Globos metereologicos
+  * Estrellas fugaces
+  * Nubes generadas por explosiones atomicas
+
+  #### MESOSFERA
+  * De 50km a 80km
+  * De -5 a -95 grados
+  * Ondas de radio
+  * Rayos cosmicos
+
+  #### TERMOSFERA
+  * Nave espacial internacional ISS
+  * Auroras boreales (Porque la capa de la atmosfera es mas gruesa)
+  
+  #### EXOSFERA
+  * Satelites
+
+## Presion atmosferica
+* Fuerza que ejerce el aire sobre la tierra
+* A mayor altura menor presion
+* A nivel del del mar la presion atmosferica es de 1013 mbar o 760 mm Hg.
+* 45 mil km hasta 10 seg antes de perder conciencia (Conciencia util)
+* Los pilotos usan mascaras full face para que no se escape el oxigeno durante cierto teimpo
+    
+  ## Perfiles Aerodinamicos (Alas, en drones helices)
+  * Superficie disenada para producir sutentacion cuando el aire pasa por el mismo
+  * Cuerpo que tiene un diseno determinado para aprovechar al maximo las fuerzas que se originan por la variacion de velocidad
+  * Teorema de bernouilt y tercera ley de newton
+  * Se denomina perfil alar, al perfil aerodinamico a la forma del area transversal de un elemento
+  * Disenos de perfiles: Antiguo, avanzado,clark Y,Flujo Laminar, Arco de circuito, Doble prisma (4 ultimos supersonicos)
+
+#### Partes Perfil aerodinamico
+* Borde ataque Porcion redondeada que se proyecta dentro del flujo frl viento relativo
+* Borde Salida  Parte trasera del perfil
+* Linea curvatura media Linea equidistante matiene la misma distancia entre el extrado e intrados y va desde borde ataque y borde de salida, horizontal a lo largo del area
+* Extrados Arriba del ala
+* Intrado borde abajo del ala
+* Espesor Distancia maxima entre intrados y extrados. se mide de foma vertical
+
+#### La Sustentacion
+* Lo explican 2 terorias Teorema de Bernnoully y tercera ley de newton (Ejemplo manguera de agua)
+* Un avion vuela por la diferencia de presion en las alas y en drone en las helices
+* La presion del aire disminuye en un tubo ventury
+
+#### Efecto Ventury
+* Giovanny Batista Ventury
+* Comprobo experimentalmente que al pasar por un estrechamiento las particulas del fluido aumentan su velocidad y su presion disminuye
