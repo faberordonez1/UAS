@@ -113,6 +113,7 @@
 * Los pilotos usan mascaras full face para que no se escape el oxigeno durante cierto teimpo
     
   ## Perfiles Aerodinamicos (Alas, en drones helices)
+  * Peril area fija o ala rotatoria
   * Superficie disenada para producir sutentacion cuando el aire pasa por el mismo
   * Cuerpo que tiene un diseno determinado para aprovechar al maximo las fuerzas que se originan por la variacion de velocidad
   * Teorema de bernouilt y tercera ley de newton
@@ -135,3 +136,11 @@
 #### Efecto Ventury
 * Giovanny Batista Ventury
 * Comprobo experimentalmente que al pasar por un estrechamiento las particulas del fluido aumentan su velocidad y su presion disminuye
+
+## FUERZAS AERODIANMICAS
+* Sustentacion (Fuerza desarrollada por un perfil aerodinamico helice)
+* Peso (hacia abajo es relativo al peso) en el centro de gravedad CG, 3 Posiciones abajo, centrado y arriba
+* Empuje o Traccion(Producido por los motores) Trust
+* Resistencia (Aire o viento) paralela al viento relativo
+   * Resistencia inducida al levantar area de ataque o subir el morro, producida por el operador
+   * Resistenci Parasita: Generada por partes que sobresalen del avion, por ejemplo tren aterrizaje
