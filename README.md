@@ -11,7 +11,9 @@
 
 # Introduccion
 
-# Motores
+# GENERALIDADES
+
+## Motores
 
 ### Motor Drone Brushless (Sin escobillas)
 
@@ -64,7 +66,7 @@
  * Las antenas de los controles deben estar paradas donde toda la antena tenga cobertura al drone (NO SOLO LA PUNTA APUNTANDO AL DRONE)
  * Conexion entre Drone y control de forma electromagnetica a 2.4 Ghz
 
- # Aerodinamica
+ # AERODINAMICA
  Rama de mecanica de fluidos que estudia las acciones que aparecen sobre los cuerpos solidos, (aviones, drones) el fluido es un gas (aire)  
 
  
@@ -144,3 +146,18 @@
 * Resistencia (Aire o viento) paralela al viento relativo
    * Resistencia inducida al levantar area de ataque o subir el morro, producida por el operador
    * Resistenci Parasita: Generada por partes que sobresalen del avion, por ejemplo tren aterrizaje
+
+# Indice K
+
+# METEREOLOGIA
+
+## INDICE KP
+
+
+## METAR
+### Nubosidad
+* FEW (nubes escasas)  1/8 a 2/8
+* SCT (Nubes parcial)  3/8 a 4/8
+* BKN (Nublado)        5/8 a 7/8
+* OBK (Cielo cubierto) 8/8
+
