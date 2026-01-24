@@ -76,36 +76,48 @@
   * Fluido que ccambia en funciona la presion
   * Compuesta 78 Nitrgeno,21% oxigeno y 1 % otros gases
   * A mayor altura menor presion dificil respirar
+  * Gases vitales para la vida Oxigeno y CO2
   * Capas de la atmosfera  TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA y EXOSFERA
     
    ### TROPOSFERA 
-   * De 0 a 12 km y se encuentra
-   *  20 Grados
-   *   viacion comercial
+   *   De 0 a 12 km y se encuentra
+   *   20 Grados
+   *   Mayor proporcion o densidad del aires lo que permite el vuelo de Animales o aviones 
+   *   Aviacion comercial
    *   Nubes tipo nimbo o fenomenos de precipitacion o metereologicos
    *   Globos Tripulados
 
   #### ESTRATOSFERA
-  * De 12 km a 50 km
+  * De 12 km  a 50 km
   * de -60 a -5 grados
   * Aviones supersonicos o  militares
-  * Capa ozono
+  * Se separa en 2 capas por densidad del aire, una inferior aire frio y otra superior con aire caliente
+  * Capa ozono (Ozonosfera) filtra la radiacion para evitar mutaciones que producen cancer
   * Globos metereologicos
   * Estrellas fugaces
   * Nubes generadas por explosiones atomicas
 
-  #### MESOSFERA
+  #### MESOSFERA (MESO = Medio)
   * De 50km a 80km
   * De -5 a -95 grados
   * Ondas de radio
   * Rayos cosmicos
+  * Donde arden los meteoritos para no llegar a la tierra, esto crea estrellas fugaces
+  * Ultima capa con gas para producir friccion y generar calor y transmitirolo
 
-  #### TERMOSFERA
+  #### TERMOSFERA (Termo = calor)
+  * 80km a 700km
+  * No transmite el calor porque no existen suficientes moleculas de gas, tampoco transmite sonido
+  * 2482 °C
   * Nave espacial internacional ISS
+  * Satelites Orbita baja
   * Auroras boreales (Porque la capa de la atmosfera es mas gruesa)
   
-  #### EXOSFERA
-  * Satelites
+  #### EXOSFERA (Exo = Afuera)
+  * 700km y 10000 km
+  * Satelites Orbita alta
+  * Ultima capa de la atmosfera terrestre
+  * Gases ligeros Hidrogeno y helio , moleculas separada (Zona fria)
 
 ## Presion atmosferica
 * Fuerza que ejerce el aire sobre la tierra
