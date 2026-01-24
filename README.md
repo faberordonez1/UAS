@@ -67,21 +67,20 @@
  * Conexion entre Drone y control de forma electromagnetica a 2.4 Ghz
 
  # AERODINAMICA
- Rama de mecanica de fluidos que estudia las acciones que aparecen sobre los cuerpos solidos, (aviones, drones) el fluido es un gas (aire)  
-
+ Rama de mecanica de fluidos que estudia las acciones que aparecen sobre los cuerpos solidos, (aviones, drones) el fluido es un gas (aire)
  
   ## Propiedades de la Atmosfera
   * Capa gaseosa que rodea la tierra (mezcla diferentes gases)
   * Tiene propiedades de masa y peso
-  * Fluido que ccambia en funciona la presion
-  * Compuesta 78 Nitrgeno,21% oxigeno y 1 % otros gases
+  * Fluido que cambia en funciona la presion
+  * Compuesta 78% Nitrgeno,21% oxigeno y 1 % otros gases
   * A mayor altura menor presion dificil respirar
   * Gases vitales para la vida Oxigeno y CO2
   * Capas de la atmosfera  TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA y EXOSFERA
     
-   ### TROPOSFERA 
-   *   De 0 a 12 km y se encuentra
-   *   20 Grados
+   #### TROPOSFERA 
+   *   De 0 a 12 km
+   *   20 °C a -60°C
    *   Mayor proporcion o densidad del aires lo que permite el vuelo de Animales o aviones 
    *   Aviacion comercial
    *   Nubes tipo nimbo o fenomenos de precipitacion o metereologicos
@@ -89,44 +88,48 @@
 
   #### ESTRATOSFERA
   * De 12 km  a 50 km
-  * de -60 a -5 grados
-  * Aviones supersonicos o  militares
+  * de -60 °C a -5 °C
+  * Aviones supersonicos y militares (Ejemplo avion concorde)
   * Se separa en 2 capas por densidad del aire, una inferior aire frio y otra superior con aire caliente
   * Capa ozono (Ozonosfera) filtra la radiacion para evitar mutaciones que producen cancer
-  * Globos metereologicos
+  * Globos metereologicos MTAR TAF
   * Estrellas fugaces
   * Nubes generadas por explosiones atomicas
 
   #### MESOSFERA (MESO = Medio)
   * De 50km a 80km
-  * De -5 a -95 grados
+  * De -5 °C a -95 °C
   * Ondas de radio
   * Rayos cosmicos
   * Donde arden los meteoritos para no llegar a la tierra, esto crea estrellas fugaces
+  * Ondas de radio y comunicaciones, ondas televisivas
   * Ultima capa con gas para producir friccion y generar calor y transmitirolo
 
   #### TERMOSFERA (Termo = calor)
-  * 80km a 700km
+  * 80km a 500km
   * No transmite el calor porque no existen suficientes moleculas de gas, tampoco transmite sonido
-  * 2482 °C
+  * -95 °C a 1000 °C
   * Nave espacial internacional ISS
   * Satelites Orbita baja
   * Auroras boreales (Porque la capa de la atmosfera es mas gruesa)
   
   #### EXOSFERA (Exo = Afuera)
-  * 700km y 10000 km
-  * Satelites Orbita alta
+  * 500km y 10000 km
+  * +1000 °C
+  * Satelites Orbita alta (Hubble, Sputnik 1)
   * Ultima capa de la atmosfera terrestre
   * Gases ligeros Hidrogeno y helio , moleculas separada (Zona fria)
 
 ## Presion atmosferica
 * Fuerza que ejerce el aire sobre la tierra
-* A mayor altura menor presion
-* A nivel del del mar la presion atmosferica es de 1013 mbar o 760 mm Hg.
-* 45 mil km hasta 10 seg antes de perder conciencia (Conciencia util)
-* Los pilotos usan mascaras full face para que no se escape el oxigeno durante cierto teimpo
-    
-  ## Perfiles Aerodinamicos (Alas, en drones helices)
+* A mayor altura menor presion (falta oxigeno porque las moleculas estan separadas difil respirar)
+* A mayor temperatura menor presion
+* A nivel del del mar la presion atmosferica es de 1013mbar(milibares) o 760 mmHg (pulgadas de mercurio).
+* 43000ft 9-12seg,40000ft 15seg,35000ft 30seg, 3000ft 1min-2min, 28000ft 2.5min-3min, 18000ft 20-30min antes de perder conciencia (Conciencia util (TUC) tomar desiciones)
+* Los pilotos usan mascaras full face para que no se escape el oxigeno durante cierto tiempo
+* Max 12000 ft pies (4,26 km) de altura podemos respirar
+
+## Perfiles Aerodinamicos (Alas, en drones helices)
   * Peril area fija o ala rotatoria
   * Superficie disenada para producir sutentacion cuando el aire pasa por el mismo
   * Cuerpo que tiene un diseno determinado para aprovechar al maximo las fuerzas que se originan por la variacion de velocidad
