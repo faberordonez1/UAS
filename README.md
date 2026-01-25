@@ -132,7 +132,7 @@
 ## Perfiles Aerodinamicos (Alas, en drones helices)
   * Peril area fija o ala rotatoria
   * Superficie disenada para producir sutentacion cuando el aire pasa por el mismo
-  * Cuerpo que tiene un diseno determinado para aprovechar al maximo las fuerzas que se originan por la variacion de velocidad
+  * Cuerpo que tiene un diseno determinado para aprovechar al maximo las fuerzas que se originan por la variacion de velocidad y presion en una cooriente de aire
   * Teorema de bernouilt y tercera ley de newton
   * Se denomina perfil alar, al perfil aerodinamico a la forma del area transversal de un elemento
   * Disenos de perfiles: Antiguo, avanzado,clark Y,Flujo Laminar, Arco de circuito, Doble prisma (4 ultimos supersonicos)
@@ -140,7 +140,7 @@
 #### Partes Perfil aerodinamico
 * Borde ataque Porcion redondeada que se proyecta dentro del flujo frl viento relativo
 * Borde Salida  Parte trasera del perfil
-* Linea curvatura media Linea equidistante matiene la misma distancia entre el extrado e intrados y va desde borde ataque y borde de salida, horizontal a lo largo del area
+* Cuerda Linea curvatura media Linea equidistante matiene la misma distancia entre el extrado e intrados y va desde borde ataque y borde de salida, horizontal a lo largo del area
 * Extrados Arriba del ala
 * Intrado borde abajo del ala
 * Espesor Distancia maxima entre intrados y extrados. se mide de foma vertical
@@ -148,7 +148,7 @@
 #### La Sustentacion
 * Lo explican 2 terorias Teorema de Bernnoully y tercera ley de newton (Ejemplo manguera de agua)
 * Un avion vuela por la diferencia de presion en las alas y en drone en las helices
-* La presion del aire disminuye en un tubo ventury
+* La presion del aire disminuye en un tubo ventury y la velocidad aumenta
 
 #### Efecto Ventury
 * Giovanny Batista Ventury
@@ -160,7 +160,7 @@
 * Empuje o Traccion(Producido por los motores) Trust
 * Resistencia (Aire o viento) paralela al viento relativo
    * Resistencia inducida al levantar area de ataque o subir el morro, producida por el operador
-   * Resistenci Parasita: Generada por partes que sobresalen del avion, por ejemplo tren aterrizaje
+   * Resistencia Parasita: Generada por partes que sobresalen del avion, por ejemplo tren aterrizaje
 
 # Indice K
 
