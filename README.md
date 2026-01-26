@@ -77,6 +77,8 @@
   * A mayor altura menor presion dificil respirar
   * Gases vitales para la vida Oxigeno y CO2
   * Capas de la atmosfera  TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA y EXOSFERA
+
+La ISA (International Standard Atmosphere o Atmósfera Estándar Internacional) es un modelo de atmósfera utilizado en aviación para estandarizar las condiciones atmosféricas y calcular el rendimiento de las aeronaves.
     
    #### TROPOSFERA 
    *   De 0 a 12 km
