@@ -66,7 +66,7 @@
  * Las antenas de los controles deben estar paradas donde toda la antena tenga cobertura al drone (NO SOLO LA PUNTA APUNTANDO AL DRONE)
  * Conexion entre Drone y control de forma electromagnetica a 2.4 Ghz
 
- # AERODINAMICA
+ # 2.AERODINAMICA (3 Clases)
  Rama de mecanica de fluidos que estudia las acciones que aparecen sobre los cuerpos solidos, (aviones, drones) el fluido es un gas (aire)
  
   ## Propiedades de la Atmosfera
@@ -136,6 +136,7 @@
   * Teorema de bernouilt y tercera ley de newton
   * Se denomina perfil alar, al perfil aerodinamico a la forma del area transversal de un elemento
   * Disenos de perfiles: Antiguo, avanzado,clark Y,Flujo Laminar, Arco de circuito, Doble prisma (4 ultimos supersonicos)
+  * Angulo de ataque:  Angulo agudo formado por la cuerda del ala y la direccion recta del viento al subir el morro
 
 #### Partes Perfil aerodinamico
 * Borde ataque Porcion redondeada que se proyecta dentro del flujo frl viento relativo
@@ -154,13 +155,22 @@
 * Giovanny Batista Ventury
 * Comprobo experimentalmente que al pasar por un estrechamiento las particulas del fluido aumentan su velocidad y su presion disminuye
 
-## FUERZAS AERODIANMICAS
-* Sustentacion (Fuerza desarrollada por un perfil aerodinamico helice)
-* Peso (hacia abajo es relativo al peso) en el centro de gravedad CG, 3 Posiciones abajo, centrado y arriba
-* Empuje o Traccion(Producido por los motores) Trust
-* Resistencia (Aire o viento) paralela al viento relativo
+ #### III Ley Newton
+ * Toda accion tiene una reaccion (ejem salida o empuje motores)
+
+#### FUERZAS AERODIANMICAS
+* Sustentacion (Fuerza desarrollada por un perfil aerodinamico helice o ala)
+* Peso (hacia abajo es relativo al peso y la gravedad) en el centro de gravedad CG, 3 Posiciones abajo, centrado y arriba
+* Traccion o Empuje hacia adelante sacando el aire hacia atras (Producido por los motores) Trust
+* Resistencia al avance (Generada por el fuselaje contra el Aire o viento) paralela al viento relativo
    * Resistencia inducida al levantar area de ataque o subir el morro, producida por el operador
    * Resistencia Parasita: Generada por partes que sobresalen del avion, por ejemplo tren aterrizaje
+  
+ #### Controles de vuelo primario
+   * **Elevador - Timon profundidad**  (Cabeceo o pitch - Eje transversal o lateral) Sube o baje el morro (ubicado en la cola del avion de forma horizontal)
+  *  **Rudder - Timon de direccion** (Guinada o yaw - Eje vertical) giro sobre el mismo eje (ubicado en la cola de forma vertical)
+  *  **Alerones** (alabeo o roll izq o Derecha - Eje longitudinal cabeza a cola) sube un ala y baja la otra genera un viraje
+  *  Flaps agrandan perfil alar, para generar mayor sustentacion a bajas velocidades 
 
 # Indice K
 
