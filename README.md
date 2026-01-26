@@ -170,7 +170,25 @@
    * **Elevador - Timon profundidad**  (Cabeceo o pitch - Eje transversal o lateral) Sube o baje el morro (ubicado en la cola del avion de forma horizontal)
   *  **Rudder - Timon de direccion** (Guinada o yaw - Eje vertical) giro sobre el mismo eje (ubicado en la cola de forma vertical)
   *  **Alerones** (alabeo o roll izq o Derecha - Eje longitudinal cabeza a cola) sube un ala y baja la otra genera un viraje
-  *  Flaps agrandan perfil alar, para generar mayor sustentacion a bajas velocidades 
+  *  Flaps agrandan perfil alar, para generar mayor sustentacion a bajas velocidades
+
+ #### Superficies control RPAS
+Defecto Modo 2
+
+   * Joistick Izqdo ↑ Despegue
+   * Joistick Izqdo ↓ Aterriza
+   * Joistick Izqdo ← Guinada izquierda mismo eje
+   * Joistick Izqdo → Guinada derecha mismo eje
+---------------------------------------------
+  
+   * Joistick Derecho ↑ Avance
+   * Joistick Derecho ↓ Retroceso
+   * Joistick Derecho ← Desplazamiento lateral izquierdo
+   * Joistick Derecho → Desplazamiento lateral derecho
+
+> [!NOTE]  
+> El ESC (Electronic speed control) controla los motores para generar los movimientos mencionados anteriormente
+
 
 # Indice K
 
