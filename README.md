@@ -194,12 +194,26 @@ Defecto Modo 2
 
 # Indice K
 
-# METEREOLOGIA
+# 3. METEREOLOGIA
 
-## INDICE KP
+### Intrumentos
+
+### Propiedades de la Atmosfera
+
+### El clima
+
+### Caracteristicas de la atmosfera
+
+### Composicion atmosferica, capas , ISA y condiciones
+
+### Metereologia Basica y fenomenos atmosfericos
+
+### Reportes Metereologia
+
+### INDICE KP
 
 
-## METAR
+### METAR
 ### Nubosidad
 * FEW (nubes escasas)  1/8 a 2/8
 * SCT (Nubes parcial)  3/8 a 4/8
