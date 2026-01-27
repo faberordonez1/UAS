@@ -195,14 +195,47 @@ Defecto Modo 2
 # Indice K
 
 # 3. METEREOLOGIA
+Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del tiempo, de forma que pueden preveer su evoluci'on
+
+> [!NOTE] 
+> El clima de una region, no es lo mismo que la metereologia
+
+**Meteoros :** Fenomeno natural que se produce en la otmosfera, consiste en una precipitacion, una suspwncion o un deposito de pariculas liquidas o solidas, asi como una manifestacion optica o electrica
+* Aurora boreal
+* Arcoiris
+* Niebla
+* Nieve
+* Granizo
+
+**Tipos Meteoros**
+* Hidrometeoros Fenomenos formados por particulas de agia en estado liquido, solido o vapor (Nieve,Lluvia,Granizo) pueden estar en el aire, precipitar ser arrastradas por el viento o depositarse sobre objetos
+* Litometeroros Relacionados con particulas solidas no acuosas en la atmosfera, levantada del suelo por el viento (Bruma o calima,Smog, Tormentas de arena)
+* Fotometeoros Fenomenos opticos por la reflexion, refraccion, distraccion o interferencia de la luz del sol o la luna (Arco iris, Auroras boreales)
+* Electrometeoros Fenomenos visibles o audibles de la electricidad de la atmosfera (relampagos,trueno y aurora boreal)
+
+### Caracteristicas de la atmosfera
+  * Capa gaseosa que rodea la tierra
+  * Compuesta 78% Nitrgeno,21% oxigeno y 1 % otros gases
+  * Segun la composicion quimica de aire la atmosfera se divide en HOMOSFERA y HETEROSFERA
+  * Capas de la atmosfera  TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA y EXOSFERA
+
+### Propiedades de la Atmosfera
+* Presion (QNH) estandar a nivel del mar 29.92 Hg (Pulgadas de mercurio) o 1013 mb (milibares)
+* Temperatura Atmosferica grado de calor en el aire en un lugar y momento determinado
+* (International Standard Atmosphere - ISA) Atmosfera estandar internacional permite obtener valores aprox de presion de y  temperatura de acuerdo a la altura en pies ft
+
+
+> [!NOTE] 
+> La Temperatura disminuye 2°C por cada 1000ft de ascenso  
+> La presion disminuye 1 pulgadas de mercurio (1013 milibares) por cada 1000ft de ascenso
+
+> [!TIP] 
+> Temperatura para volar drone es maximo a 40°C porque se afecta la bateria
 
 ### Intrumentos
 
-### Propiedades de la Atmosfera
-
 ### El clima
 
-### Caracteristicas de la atmosfera
 
 ### Composicion atmosferica, capas , ISA y condiciones
 
