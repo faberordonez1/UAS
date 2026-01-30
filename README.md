@@ -253,3 +253,29 @@ Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del
 * BKN (Nublado)        5/8 a 7/8
 * OBK (Cielo cubierto) 8/8
 
+# 4. Navegacion para RPA (Inicio 29 Enero)
+### Definicion
+Tecnicas y procedimientos para pilotear una aeronave eficiente a su lugar de destino, asegurando la integridad de los tripulantes, pasajeros y de los que estan en tierra.
+
+### Tipos Navegacion Aerea
+#### Observada
+Navegacion de contacto visual o pilotaje, se determina la posicion de la aeronave valiendose de la observacion de puntos de referencia sobre el terreno, los cuales pueden ser topograficos o culturales.
+#### Estima
+Deduccion o calculo se determina por la posicion de la aeronave por medio de direccion y la distancia desde una posicion anterior conocida y el tiempo segun la velocidad que se haya determinado.
+#### Automatica 
+Se determina por la posicion de la aeronave por medio de computadores a bordo
+* Se define un punto A y un punto B y el sistema calcula los puntos intermedios
+#### Astronomica
+Basado en los astros
+#### Intrumentos
+Se determina la posicion de la aeronave por medio de la transmision de radiofaros situados en la superficie de la tierra, cuya senal es recibida a bordo de la aeronave por equipos e instrumentos especializados
+#### Satelital
+Sistemas GNSS (Global Navegation Satellite Systems) es una constelacion de satelites que transmiten los rangos de senales utilizados para el posicionamiento y localizacion en cuerquier parte del globo terrestre, ya sea en tierra, mar o aire.
+* Ruso (Glonass)
+* USA (GPS)
+* Union Europera (Galileo)
+* China BeiDou (BDS)
+
+### Elementos de coordenadas geograficas
+### Plan Navegacion
+
