@@ -228,24 +228,59 @@ Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del
 
 
 > [!NOTE] 
-> La Temperatura disminuye 2°C por cada 1000ft de ascenso  
+> La Temperatura disminuye 2°C por cada 1000ft de ascenso  hasta 3600 ft (pies). Porncime se considera constante hasta 80.000 ft
 > La presion disminuye 1 pulgadas de mercurio (1013 milibares) por cada 1000ft de ascenso
 
 > [!TIP] 
 > Temperatura para volar drone es maximo a 40°C porque se afecta la bateria y a los 0°C
 
-### Intrumentos
+### Intrumentos (20 Enero 2026)
+* **Anemometro** Mide la velocidad del viento en km/h o m/s de acuerdo a las revoluciones del giro x minuto
+* **Veleta o Manga Veleta** Sirve para medir la direccion del viento Norte,Sur,Este u Oeste, normalmente acoplada al anemometro 
+* **Pluviometro** Mide volumen de agua caida (gotas) medida en L/m2 (litros x metro cuadrado) *la lluvia fina genera mas agua
+* **Barometro** Mide la presion atmosferica tomando la presion atmosferica normal como referencia, si el barometro sube es senal de buen clima, ya que presiones altas son senales de tiempo seco buen clima
+* **Ceilometro** Usa un laser de forma vertical hacia las nubes para determinar la altura de la base de las nubes, de acuerdo al tiempo que tarde en retornar el reflejo de la luz al ceilometro. Tambien se conoce como NEFOBASIMETRO
+* **Higrometro**  Mide la humedad relativa del aire, los resultados se expresan en valores entre 0 y 100%. 0 a 30% (Clima seco) 30 % y 70 (Comfortable) , Mayor a 70 (Humedad relativa alta, mayor probabilidad de lluvia)
+* **Termometro** Los de maxima registran la temperatura mas alta del dias des -31,5°C hasta 51,5°C y los de minima miden la mas baja desde -44,5°C a 40,5°C
 
 ### El clima
+Efecto de la radicon solar sobre la superficie de la tierra en rotacion, es decir caracteristicas de la zona
+* Polos                           => Polar
+* Ariba/abajo de la linea ecuador => Templado
+* Linea Ecaudor                   => Tropical
 
+> [!NOTE]
+> Clima no es lo mismo que el tiempo
+
+### Radicion SOlar
+Energia lectromagnetica emitida por el solo y se propaga a traves del del espacio, es fundamental para la vida en la tierra ya que proporciona la energia para los procesos biologico. Ademas es responsable de los patrones metereologicos de la tierra y el clima
+
+Compuesta por luz visible que es parte del espectro Electromagnetico. Tambien incluye la radiacion UV y rayos infrarrojos IR
+
+#### Indice KP  [Web Consulta Indice KP](https://www.spaceweatherlive.com/es/actividad-auroral/indice-kp.html) 
+* Radiacion solar intensa G3 o superior satura la conexion entre drone y control, tambien recalienta bateria y descarga
+
+### Sistemas de alta y baja presion
+Los sistemas de presion tienen lineas isobaricas y determinan que tienen la misma presion en un instante dato
+
+Las lineas isobaricas son las lineas que unen puntos de igual presion
+
+**Formas Isobaricas Principales**
+* Areas aereas de bajas presiones (B) Bajas,Depresion,Borrasca,Ciclon
+Los vientos circulan en contra de las agujas del reloj (circulacion cinclonica) en el emisferio norte (HN) y al emisferio sur (HS) en el sentido del reloj (circulacion anticinclonica)
+La presion disminuye desde el exterior hacia el centro, donde es minima
+
+* Areas aereas de altas presiones (A) Anticcion (clima seco)
+Los vientos circulan en sentido de las agujas del reloj  (circulacion anticinclonica) en el emisferio norte y al emisferio  sur al contrario (circulacion cinclonica)
+Adoptan una configuracion bastante irregular, la presion aumenta aumenta desde el exterior hacia el centro
+
+### Punto de Rocio TODOOOOOOOOOOOOO**** 51:32 20 Enero *****************************************************************************
 
 ### Composicion atmosferica, capas , ISA y condiciones
 
 ### Metereologia Basica y fenomenos atmosfericos
 
 ### Reportes Metereologia
-
-### INDICE KP
 
 
 ### METAR
