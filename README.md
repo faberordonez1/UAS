@@ -114,6 +114,7 @@ La ISA (International Standard Atmosphere o Atmósfera Estándar Internacional) 
   * Nave espacial internacional ISS
   * Satelites Orbita baja
   * Auroras boreales (Porque la capa de la atmosfera es mas gruesa)
+  * IONOSFERA Permite la comunicacion de ondas de radio haciendo uso de un transmisor y un receptor
   
   #### EXOSFERA (Exo = Afuera)
   * 500km y 10000 km
@@ -127,6 +128,7 @@ La ISA (International Standard Atmosphere o Atmósfera Estándar Internacional) 
 * A mayor altura menor presion (falta oxigeno porque las moleculas estan separadas difil respirar)
 * A mayor temperatura menor presion
 * A nivel del del mar la presion atmosferica es de 1013mbar(milibares) o 760 mmHg (pulgadas de mercurio).
+* Presion (QNH) estandar a nivel del mar 29.92 Hg (Pulgadas de mercurio) o 1013 mb (milibares) referencia altimetro aviacion
 * 43000ft 9-12seg,40000ft 15seg,35000ft 30seg, 3000ft 1min-2min, 28000ft 2.5min-3min, 18000ft 20-30min antes de perder conciencia (Conciencia util (TUC) tomar desiciones)
 * Los pilotos usan mascaras full face para que no se escape el oxigeno durante cierto tiempo
 * Max 12000 ft pies (4,26 km) de altura podemos respirar
@@ -208,7 +210,7 @@ Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del
 * Granizo
 
 **Tipos Meteoros**
-* Hidrometeoros Fenomenos formados por particulas de agia en estado liquido, solido o vapor (Nieve,Lluvia,Granizo) pueden estar en el aire, precipitar ser arrastradas por el viento o depositarse sobre objetos
+* Hidrometeoros Fenomenos formados por particulas de agua en estado liquido, solido o vapor (Nieve,Lluvia,Granizo) pueden estar en el aire, precipitar ser arrastradas por el viento o depositarse sobre objetos
 * Litometeroros Relacionados con particulas solidas no acuosas en la atmosfera, levantada del suelo por el viento (Bruma o calima,Smog, Tormentas de arena)
 * Fotometeoros Fenomenos opticos por la reflexion, refraccion, distraccion o interferencia de la luz del sol o la luna (Arco iris, Auroras boreales)
 * Electrometeoros Fenomenos visibles o audibles de la electricidad de la atmosfera (relampagos,trueno y aurora boreal)
@@ -222,7 +224,7 @@ Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del
 ### Propiedades de la Atmosfera
 * Presion (QNH) estandar a nivel del mar 29.92 Hg (Pulgadas de mercurio) o 1013 mb (milibares)
 * Temperatura Atmosferica grado de calor en el aire en un lugar y momento determinado
-* (International Standard Atmosphere - ISA) Atmosfera estandar internacional permite obtener valores aprox de presion de y  temperatura de acuerdo a la altura en pies ft
+* (International Standard Atmosphere - ISA) Atmosfera estandar internacional permite obtener valores aprox de presion y  temperatura de acuerdo a la altura en pies ft, cuando no se tiene torre de control o METAR que suminstre la informacion
 
 
 > [!NOTE] 
@@ -230,7 +232,7 @@ Ciencia que estudia los fenomenos que se producen en la atmosfera a lo largo del
 > La presion disminuye 1 pulgadas de mercurio (1013 milibares) por cada 1000ft de ascenso
 
 > [!TIP] 
-> Temperatura para volar drone es maximo a 40°C porque se afecta la bateria
+> Temperatura para volar drone es maximo a 40°C porque se afecta la bateria y a los 0°C
 
 ### Intrumentos
 
