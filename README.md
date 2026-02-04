@@ -290,28 +290,50 @@ Adoptan una configuracion bastante irregular, la presion aumenta aumenta desde e
 * BKN (Nublado)        5/8 a 7/8
 * OBK (Cielo cubierto) 8/8
 
-# 4. Navegacion para RPA (Inicio 29 Enero)
+# 4. Navegacion para RPA UAS (Inicio 29 Enero)
 ### Definicion
 Tecnicas y procedimientos para pilotear una aeronave eficiente a su lugar de destino, asegurando la integridad de los tripulantes, pasajeros y de los que estan en tierra.
 
 ### Tipos Navegacion Aerea
 #### Observada
-Navegacion de contacto visual o pilotaje, se determina la posicion de la aeronave valiendose de la observacion de puntos de referencia sobre el terreno, los cuales pueden ser topograficos o culturales.
+Navegacion de contacto visual o pilotaje, se determina la posicion de la aeronave valiendose de la observacion de puntos de referencia sobre el terreno, los cuales pueden ser topograficos o culturales, para esta navegacion el cielo debe estar totalmente despejado. distancia/velocidad=tiempo
+
 #### Estima
 Deduccion o calculo se determina por la posicion de la aeronave por medio de direccion y la distancia desde una posicion anterior conocida y el tiempo segun la velocidad que se haya determinado.
+
 #### Automatica 
-Se determina por la posicion de la aeronave por medio de computadores a bordo
-* Se define un punto A y un punto B y el sistema calcula los puntos intermedios
+* Se determina por la posicion de la aeronave por medio de computadores a bordo
+* Se define un punto A y un punto B y el sistema calcula los puntos intermedios, altura etc.
+
 #### Astronomica
-Basado en los astros
+Basado en los astros con respecto a la tierra
+
 #### Intrumentos
 Se determina la posicion de la aeronave por medio de la transmision de radiofaros situados en la superficie de la tierra, cuya senal es recibida a bordo de la aeronave por equipos e instrumentos especializados
+* Radionavegacion
+
 #### Satelital
 Sistemas GNSS (Global Navegation Satellite Systems) es una constelacion de satelites que transmiten los rangos de senales utilizados para el posicionamiento y localizacion en cuerquier parte del globo terrestre, ya sea en tierra, mar o aire.
 * Ruso (Glonass)
 * USA (GPS)
 * Union Europera (Galileo)
 * China BeiDou (BDS)
+
+### Coordenadas Geograficas
+Punto 0  Ecuador
+Latitud paralelo (Horizontal) 0 y  divide en 2 emisferios norte y sur
+Longitud mediridiano de grenwich (0) de forma vertical de 0 a 180 grados (este y oeste)
+
+### Medidas de distancia
+* Milla nautica (NM) es equivalente a 1852 m (1.852km) en cartas de navegacion de aviacion se usa este tipo
+* Km
+* Metro m
+* Milla Terrestre Milla estatutaria - Statuute Mille - sM SM = 1,609km =1609 m  (200 m mas corta que la nautica)
+
+### Medidas de Tiempo
+La tierra gira de occidentre a oriente y tarda 24H y hace un arco de 360 grados, significa que la tierra en 1h gira 15 grados
+* UTC, Siempre se utiliza independiente si es vuelo nacional
+* Hora Llegada se notifica en hora local a los pasajeros
 
 ### Elementos de coordenadas geograficas
 ### Plan Navegacion
