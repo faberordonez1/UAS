@@ -274,7 +274,41 @@ La presion disminuye desde el exterior hacia el centro, donde es minima
 Los vientos circulan en sentido de las agujas del reloj  (circulacion anticinclonica) en el emisferio norte y al emisferio  sur al contrario (circulacion cinclonica)
 Adoptan una configuracion bastante irregular, la presion aumenta aumenta desde el exterior hacia el centro
 
-### Punto de Rocio TODOOOOOOOOOOOOO**** 51:32 20 Enero *****************************************************************************
+### Punto de Rocio y Congelacion
+* **Rocio** Temperatura a la que se enfria o satura el aire para convertirse en agua
+* **Congelacion** Temperatura a la que se enfria el aire para que alcance el punto de saturacion referido al hielo
+
+### Fenomenos Atmosfericos
+##### Viento
+> [!NOTE]
+> Viento no es lo mismo que aire
+
+Se denomina veinto a un vector que tiene magnitud,direccion y sentido. Generalmente se define viento al aire en movimiento. 
+* Se considera viento toda translacion de masas de aire en sentido horizontal.
+* La translacion vertical se conoce como el termino de corriente vertical o convectiva
+* El origen del viento se debe a las variaciones de temperatura y de presion que experimentan las diferentes masas de aire
+* Direccion Es el punto del horizonte de donde sopla el viento. A ese punto se denomina barlovento(de donde viene) y al opuesto sotavento (a donde va)
+* Intensidad Es la segunda magnitud que caracteriza el viento, pudiendose definir como la presion  (velocidad o fuerza) que ejerce sobre los objetos
+* Fuerza de Coriolis (Fc) Aparece siempre que un cuerpo se mueve sobre otro que esta girando, esta fuerza hace que el veinto se desvie hacia la derecha se su trayectoria en el emisferio Norte y la izqda en el hemisferio sur
+* Escala de Befaurt, Es la tabla de velocidad del viento o carta de vientos
+
+  ###### Clases de viento
+  * Laminar Es constante en direccion y velocidad
+  * Turbulento Posee variaciones continuas en su instensidad y direccion, afectando todos los planos del espacio. (sube ,baj ,izqda, dcha)
+  * Racheado Aparece bruscamente, aun despues de haber existido periodo de calma
+  * Variable Cambia constantemente su direccion sobre un plano horizontal
+  * Estable Cuando sopla con cierto caracter de constancia y se mantiene su direccion
+
+Clases de viento respecto a su localizacion, se divide en
+   * Generales Reinan en un amplio sector geografico
+   * Locales soplan en una zona reducida (canon)
+   * Periodicos Soplan en epocas determinadas (ejemplo agosto colombia)
+   * Ocasionales No tienen caracter fijo, ni en cuanto a su duracion, pueden ser:
+     Orograficos Influenciados principalmente por la orografia (topografia) del terreno. Se pueden dividir a su vez en:
+       * Ascendendentes (Dia) : Que suben por la ladera de la montana (pegado al borde de la moontana) tip para bajar el drone alejar de la montana
+       * Descendente (Noche): Que bajan por la ladera de la montana (pegado al borde de la moontana) tip para bajar el drone acercar a la montana
+       * Brisas de Valle y montana:  Que sopla del a la montana y viceversa
+       * Brisas de Mar y Tierra: Se generan del mar a la tierra y viceversa
 
 ### Composicion atmosferica, capas , ISA y condiciones
 
