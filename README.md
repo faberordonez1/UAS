@@ -366,9 +366,46 @@ Longitud mediridiano de grenwich (0) de forma vertical de 0 a 180 grados (este y
 
 ### Medidas de Tiempo
 La tierra gira de occidentre a oriente y tarda 24H y hace un arco de 360 grados, significa que la tierra en 1h gira 15 grados
-* UTC, Siempre se utiliza independiente si es vuelo nacional
+* UTC(Universal Time Coordinate), Siempre se utiliza independiente si es vuelo nacional
 * Hora Llegada se notifica en hora local a los pasajeros
 
+### Elementos de Navegacion
+* **Brujula** Tambien llamada compas magnetico, es un instrumento que al orientarse con las lineas de fuerzas del campo magnetico de la tierra, proporciona al piloto una indicacion permanente del rumbo del avion respecto al norte magnetico terrestre. Este instrumento es la referencia basica para mantener la direccion de vuelo.
+* **Rosa de los vientos** Es un simbolo en forma de circulo que tiene marcado al rededor los rumbos en que se divide la circunferencia del horizonte, y que seria  N,S,E y OE y detallado.
+* **Escala** Relacion constante entre las distancias mostradas sobre la carta y  las distancias que ellas representan sobre el terreno.
+*  **Mapa** Representacion diagramatica sobre una superficie plana de una parte de la superficie de la tierra
+*  **Carta Navegacion** Mapa preparado especialmente para uso en navegacion
+   * Area control zona controlada por la aeronautica civil
+   * Zona de control Zona de control especial
+   * Puntos notificacion obligatoria, el piloto debe notificar cuando ve un triangulo negro ()
+   * Punto a Solicitud: el piloto debe notificar si lo requiere o si le solicitan triangulo blanco con 1 punto blanco en el centro
+   * Tramo ruta (linea negra)
+   * Distancia parcial en MT
+   * Distancia Total en MN
+   * Designador de ruta (Cuadro negro numero en fondo)
+   * Sentido preferencial designator de ruta
+   * Marcacion Magnetica
+   * Limite de Sector (Linea verde) mas carga de trabajo para pilotos y torre de control
+   * Area restringida (Linea Naranja) Are con restriccion a ciertas alturas ejemplo (1300 ft)
+   * Area para botar combustible (Linea gris punteada)
+   * INformacion especifica de esa area
+ 
+* **Espacio Aereo** Porcion de la atmosfera terrestre, sobre tierra o agua que esta sometida y regulada a la soberania y jurisdiccion de un estado en particular, el cual utiliza para facilitar el transito aereo. existen  diferentes tipos clase A (por encima 18000MSL),B,C Hasta Clase E (Hasta 14500 MSL)
+ ###### ESPACIO AERO CONTROLADO CIVIL EN COLOMBIA 
+ Se clasifica en clase A,B,C,D y E
+  * ATZ Zona transito aerodromo
+  * CTR ZONA CONTROL
+  * TMA Area control terminal
+  * AWY Aerovia
+  * FIR rEGION DE INFORMACION DE VUELO
+
+##### ESPACIO AEREO NO CONTROLADO EN COLOMBIA
+Comprende el espacio aereono controlado F,G
+
+### Geogencing
+### UTM
+### INTRUMENTOS APLICACIONES DE DRONES
+ 
 ### Elementos de coordenadas geograficas
 ### Plan Navegacion
 
