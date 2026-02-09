@@ -290,7 +290,7 @@ Se denomina veinto a un vector que tiene magnitud,direccion y sentido. Generalme
 * Direccion Es el punto del horizonte de donde sopla el viento. A ese punto se denomina barlovento(de donde viene) y al opuesto sotavento (a donde va)
 * Intensidad Es la segunda magnitud que caracteriza el viento, pudiendose definir como la presion  (velocidad o fuerza) que ejerce sobre los objetos
 * Fuerza de Coriolis (Fc) Aparece siempre que un cuerpo se mueve sobre otro que esta girando, esta fuerza hace que el veinto se desvie hacia la derecha se su trayectoria en el emisferio Norte y la izqda en el hemisferio sur
-* Escala de Befaurt, Es la tabla de velocidad del viento o carta de vientos
+* **Escala de Beafort**, Es la tabla de velocidad del viento o carta de vientos, la velocidad la mide desde 0 a mas 117 km/h de velocidad del viento y va de 0 a 12
 
   ###### Clases de viento
   * Laminar Es constante en direccion y velocidad
@@ -309,6 +309,40 @@ Clases de viento respecto a su localizacion, se divide en
        * Descendente (Noche): Que bajan por la ladera de la montana (pegado al borde de la moontana) tip para bajar el drone acercar a la montana
        * Brisas de Valle y montana:  Que sopla del a la montana y viceversa
        * Brisas de Mar y Tierra: Se generan del mar a la tierra y viceversa
+
+##### Nubes
+* Conjunto de particulas finas de agua en estado liquiso o en estado solido (cristales hielo) que forman masas de espeso, color y formar variables
+* Las de agua que borman nuber son esfericas y muy pequenas, se encuentran supendidas en el aire y sometidas a corrientes ascendentes y otras fuerzas, de tal forma que se encuentran en constante movieminto dentro de la nube, chocando unas con otras y agrupandose entre ellas, seg'un las condiciones atmosfericas existentes, se  puede producir un aumento hasta el punto que su peso supere las fuerzas ascendentes y caigan a la tierra en forma de lluvia o precipitacion.
+* Los procesos que forman la condensacion y la sublimacion y a la vez las nubes son sobre todo los ascensos de aire, al ascender el aire cada vez se enfria mas ya que esta menos oprimido por el volumen superior de aire, el aire frio admite menos vapor de agua que el calido por lo que llegado un momento se satura y se produce la condensacion o la sublimacion si la temmperatura es muy baja, por lo que en consecuencia se forma una nube, el ascenso del aire se produce profundamente por mecanismos de conveccion, la orografia de zona y las borrascas y frenes.
+
+##### Clasifiacion de nubes
+Se clasifican de de acuerdo a su altura y la forma o estructura que presentan al observador, las nubes se clasifican en :
+
+- Cumulonimbos puede estar en las 3 alturas y es peligrosa por lo general se debe rodear porque tiene vientos en todos los sentidos ademas de rayos
+
+##### Nubes Bajas hasta 2000M de altitud (Niebla,Estratos, Estratocumulos, cumulos)
+* **Stratus**,  nubes dispuestas en capas que tienen una base uniforme (completamente nubladas) y de color generalmente gris. Estan constituidas casi siempre por gotas de agua, aunque si existen muy bajas temperaturas, Pueden estar constituidas por cristales de hielo, generan lluvia finita y extensa.
+* **Estratocumulos** Compuesta por estratos y cumulos que se presentan generalmente en capas de nubes grises o blanquecinas con ondulaciones largas y paralelas. Estan constituidas por gotas de agua. Originan precipitaciones que por lo general son debiles, contienen mas agua que las anteriores y dentro tienen cumulos.
+* **Nimboestratos** capa nubos gris sombria (gris oscura) que oculta completamente al y que es mas caracateristica de las precipitaciones continuas. Se diferencia del startus por su color mas oscuro, genera lluvias fuertes y continua.
+* **Cumulos** Es la forma mas caracterisca, poseee base plana y perfiles redondeados,similar a una coliflor. Su color es blanco y brillante y se aprecia claramente su desarrollo vertical. Estan constituidas por gotas de agua, aunque si se hallan sobre una zona con temperatura inferior 0 grados centigrados pueden aparecer cristales de hielo, (producen lluvia sobre u solo espacio o zona).
+* **Cumulonimbus** Esta es la nube tipica del chubasco . Su desarrollo vertical es muy alto, alcanzando altitudes hasta mas de 50.000 pies. Produce chubascos fuertes, granizo , rayos, truenos, turbulencia fuerte y su presencia nos indica claramente una fuerte inestabilidad en la atmosfera
+  *  La base suele ser muy oscura (gris plomizo) es peligrosa.
+    
+##### Nubes Medias 2000 y 6000M de altitud (Altocumulos, Altoestratus) (Nimboestratos estan entre medias y bajas y son peligrosos)
+* **Altocumulos** (similar colchon algodon)   NUbes blancas o grises , en su mayor parte estan constituidas por gotas deagua. NO dejan pasar ni los rayos ni la silueta del sol. Este tipo de nubes se presenta tambien en forma de capas compuestas de estrechas masas globulares, aunque generalmente estan distribuidas en lineas u ondas siguiendo una o 2 direcciones, generalmente no producen precipitacion.
+
+Estas nubes algunas veces se presenta a barlovento de las cordilleras tomaforma de lenteja o algodon, por efecto de las corrientes de viento ortografico, de gran velocidad en forma de rotor otrografico, de gran velocidad  en forma de rotor, conocida con el nombre de Ac lenticulares.
+
+* **Altoestratus** Capa nubosa grisaceas o azulada de aspecto estriado o fibroso, que presenta algunas capas delgadas por las que se puede ver el sol. Son parecidas a los cirro-stratus, con la diferencia que de que en los altoestratus no parecen halos.
+
+Estan constituidas principalmente por gotas de agua, aunque tambien contienen cristales de hielo. Este tipo de nube se presenta en forma de capa horizontal (varios centenares de km) siendo su dimension vertical de hasta varios miles de metros. Son nubes que producen precipitaciones de carcater continuo. Producen lluvia continua de la misma intensidad por horas.
+
+
+##### Nubes Altas 6000 y 13000M de altitud (Cirrus, Cirrocumulos, cirruestratos)
+* **Cirrus** Apariencia de algodon deshilachada y son generalmente de un color blanco intenso. Por la altura a que se hallan, estan formadas por agujas o cristales de hielo. Generalmente no son muy opacas y dejan pasar los rayos del sol.
+* **Cirrocumulos** Es de rara formacion y aparecen agrupadas en pequenos copos o masa globulares formando grupos de lineas. Al igual que los cirrus estan compuestas por cristales de hielo. Se presentan tambien en bancos que tienens la forma de lentejas o almendras, a menudo muy delgadas y con bordes bien delimitados. Estas nubes son lo suficientemente transparentes para dejar ver el sol o la luna.
+* **cirruestratos** Semejan un velo blanquecino que no tiene la suficiente consistencia como para impedir ver el sol o la luna. Al igual que las anteriores tambien estan constituidas por cristales de hielo. Con este tipo de nube aparece generalmente el fenomeno conocido como HALO (Fenomeno optico causado por la existencias de cristales de hielo en la atmosfera semejante a un anillo, que rodea el sol o la luna)
+
 
 ### Composicion atmosferica, capas , ISA y condiciones
 
