@@ -342,11 +342,12 @@ Estan constituidas principalmente por gotas de agua, aunque tambien contienen cr
 * **Cirrocumulos** Es de rara formacion y aparecen agrupadas en pequenos copos o masa globulares formando grupos de lineas. Al igual que los cirrus estan compuestas por cristales de hielo. Se presentan tambien en bancos que tienens la forma de lentejas o almendras, a menudo muy delgadas y con bordes bien delimitados. Estas nubes son lo suficientemente transparentes para dejar ver el sol o la luna.
 * **cirruestratos** Semejan un velo blanquecino que no tiene la suficiente consistencia como para impedir ver el sol o la luna. Al igual que las anteriores tambien estan constituidas por cristales de hielo. Con este tipo de nube aparece generalmente el fenomeno conocido como HALO (Fenomeno optico causado por la existencias de cristales de hielo en la atmosfera semejante a un anillo, que rodea el sol o la luna).
 
-### Nubosidad en octas 
+### Nubosidad 
+La  nubosidad es la extension del cielo cubierto por nubes y se expresa en octavos de cielo cubierto u octas.
 * FEW (nubes escasas)  1/8 a 2/8
 * SCT (Nubes parcial)  3/8 a 4/8
 * BKN (Nublado)        5/8 a 7/8
-* OBK (Cielo cubierto) 8/8
+* OVK (Cielo cubierto) 8/8
 
 ******************************** 1 hora, octas metar leyendo ********************************
 
@@ -358,6 +359,9 @@ Estan constituidas principalmente por gotas de agua, aunque tambien contienen cr
 
 
 ### METAR
+* App para ver [Aerowather](https://play.google.com/store/apps/details?id=com.lakehorn.android.aeroweather&hl=es_CO)
+
+### TAF o TAFOR
 
 # 4. Navegacion para RPA UAS (Inicio 29 Enero)
 ### Definicion
