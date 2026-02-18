@@ -456,5 +456,5 @@ Comprende el espacio aereono controlado F,G
 * Colacionen la autorizacion de las frecuencias, es decir repitir lo que escuche o entendi.
 * Atencion a la frecuencia siempre
 * Pedir que se repita si no se entiende o incluso cambiar la fraseologia con el objetivo de comunicarse de forma correcta
-* Checkeo de los equipos de comunicacion
-
+* Checkeo de los equipos de comunicacion y equipos adecuados (radio transmisor de aviacion)
+* Plan de vuelo autorizado aeronautica
