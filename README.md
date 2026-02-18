@@ -448,3 +448,13 @@ Comprende el espacio aereono controlado F,G
 ### Elementos de coordenadas geograficas
 ### Plan Navegacion
 
+# 5. COMUNICACIONES AERONAUTICAS UAS (Lo define la OACI)
+* Alfabeto Aeronautico
+* [Video instructivo comunicacion con torre control](https://www.youtube.com/watch?v=akvdcTHkl6o&t=142s) 17 Feb 2026
+* Quien, Donde y Que quiero
+* Escuchar antes de hablar, hablar pausado
+* Colacionen la autorizacion de las frecuencias, es decir repitir lo que escuche o entendi.
+* Atencion a la frecuencia siempre
+* Pedir que se repita si no se entiende o incluso cambiar la fraseologia con el objetivo de comunicarse de forma correcta
+* Checkeo de los equipos de comunicacion
+
