@@ -458,3 +458,118 @@ Comprende el espacio aereono controlado F,G
 * Pedir que se repita si no se entiende o incluso cambiar la fraseologia con el objetivo de comunicarse de forma correcta
 * Checkeo de los equipos de comunicacion y equipos adecuados (radio transmisor de aviacion)
 * Plan de vuelo autorizado aeronautica
+
+# 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
+* Principal factor de incidentes o accidentes
+* Que es la accidentabilidad ?
+  Es prevenir los accidentes
+  En la aviacion 3 de cada 4 accidentes son por errores humanos.
+* Los accidentes de dan por escasez de :
+ Conciencia situacional
+ Comunicacion
+ Recursos
+ Conocimientos
+ Asertividad
+ Trabajo en Equipo
+ Motivacion
+* Existen abundancia de:
+ Distracciones
+ Presion
+ Estres
+ Fatiga
+ Complacencia
+ Prejuicios
+* DEFINICIONES IMPORTANTES
+EFICIENDIA: OBTENER LOS RESULTados requeridos sin dificultad o esfuerzo excesivo.
+EFICACIA: Haber cumplido con el objetivo
+ERGONOMIA: Estudio de la eficiencia de las personas en sus ambientes de trabajo
+
+Aplicacion de principios relativos a Factores Hummanos
+Se aplican al diseno, contenidos, procesamiento y distribucion de la informacion aeronautica,certificacion, instruccion y operaciones aeronauticas que buscan establecer una interfaz segura entre los componente humanos y de otro tipo de factor humano.
+
+Para ello es importante que exista una perfecta interfaz "ser humano - tecnologia" para realizar tareas y funciones en la que se espera una alta eficiencia para obtener una excelente calidad.
+
+* CONCEPTO
+Factor humano es la influencia del ser humano
+
+* Automatizacion centrada en el Humano
+Conjunto de conceptos que significa aautomatizacion disenada hacia el  trabajo cooperativo con operadores humanos en busca de objetivos.
+
+El elemento humano es la parte max flexible, adaptable y valiosa del sistema de la aviacion, pero tambien 
+
+* Actuacion Humana
+En vista que losfactores humanos son el factor principal de accidentes aereos, la OACI mediante el estudio del hombre tiene como objetivo evitar error humano, por lo que se ha considerado importante tener en cuenta las capacidades y limitaciones humanas que repercuten en la seguridad y eficacia de las operaciones aeres.
+* Factores COntribuyentes
+FISICOS: Enfermendades, lesiones, deficiencias fisiologicas
+
+* Fallas en los factores humanos
+Debido al constante progreso tecnologico, la fallas del equipo principal o errores del personal operacional rara vez son la causa fundamental de los desperfectos
+
+* Se pueden considerar fallas como
+Activas: Errores y violiaciones que tienen un efecto adverso inmediato
+Latentes:
+
+* Entorno Laboral
+Disponer de informacion actualizada.
+Tener lugar adecuado para proporcionar la informacion necesaria sin interferencias (Se esta diciendo algo y por alguna distraccion se dice otra o nos olvidaamos lo que tenemos que decir).
+Contar con un espacio suficiente
+El mobiliario que se dispone debe estar bien ubicado.
+Equipo funcionando en optimas condiciones.
+Sistemas de iluminacion adecuado.
+Fortalecer las relaciones interpersonales.
+
+### * Conciencia situacional
+PERCEpcion de lo que pasa alrededor
+Comprender lo que esta pasando (ejemplo viento humedo puede llover)
+Preveerlo que sucedera
+Todo esto es necesario para no ser sorprendido
+
+* Indicios perdida de conciencia situacional
+  Perdida real de lo que se percibe.
+  No cumplimiento de los procedimientos.
+  Violacion de los procediminetos estandarizados.
+  Sensaciones de alarma.
+
+* Que debemos considerar
+Prestar atencion a la informacion correcta en el momento preciso.
+Si algo te parece no estar bien, manefestarlo
+Tener cuidado con el aburrimiento
+Cuidarse de los malos habitos, son dificiles de romper.
+Esperar que suceda algo reduce la conciencia situacional.
+Tener objetivos y tiempos concretos para realizar una tarea.
+Los sistemas fiables no siempre son correctos
+Los automatismos contienen secretos y peligrosos
+Considerar que la distraccion tiene diversas formas.
+
+Saber o no saber ?
+Que saben los otros que necesito saber y a la inversa.
+Que es lo que ninguno sabemos y todos necesitamos saber.
+
+* Entorno o el ambiente
+Estres vital
+EStres ambiental
+EStres cognitivo
+
+* Medicamentos o narcoticos
+Farmacos que afecten adversamente en la toma de decisiciones
+
+* Seleccion de personal
+Importante para reducir efectos de factores humanos es verficar la calidad del personal ingresado y encargado  de realizar alguna actividdad.
+
+* Modelo SHELL
+S -> Software
+H -> Hardware
+E -> Environment en otrono
+L - > Liveware Persona (Centro del modelo)
+
+* Importacia de la cultura enla seguridad operacional
+Reune a la gente como miembros de un grupo y da pautas de  comportamiento en situaciones normales e inusuales
+Influye en los valores, creencias y comportamiento de las personas que comparten entre si.
+
+* 3 Tipos De Cultura
+Nacional
+Organizacional Establece las pautas en una empresa
+Profesional
+Seguridad: Es una consecuencia no un proceso.
+
+
