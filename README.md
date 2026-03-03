@@ -465,11 +465,11 @@ Comprende el espacio aereono controlado F,G
   * (Half Duplex)  doble via
   * (Full Duplex) simultaneo, varios transmisores y receptores
 * Frecuencias de uso comun
- * Localizadores de emergencia VOR 406 MHz y 121.500MHz
- * NDB (Distancia entre estacion en tierra al avion) 130 - 535 kHz
- * VHF COM (Radio comunicacion verbal o hablada) 117.975 - 137.000 Local (del pais)
- * VHF NAV (Comunicaciones de navegacion, instrumento con satelite y viceversa, radio navegacion VOR) 108.000 - 117.975 MHz (Indica distancia)
- * Las frecuencias de una aeropuerto se encuentran en las cartas de aproximacion, la frecuencia ATIS es exclusiva repetir el METAR
+  * Localizadores de emergencia VOR 406 MHz y 121.500MHz
+  * NDB (Distancia entre estacion en tierra al avion) 130 - 535 kHz
+  * VHF COM (Radio comunicacion verbal o hablada) 117.975 - 137.000 Local (del pais)
+  * VHF NAV (Comunicaciones de navegacion, instrumento con satelite y viceversa, radio navegacion VOR) 108.000 - 117.975 MHz (Indica distancia)
+  * Las frecuencias de una aeropuerto se encuentran en las cartas de aproximacion, la frecuencia ATIS es exclusiva repetir el METAR
 
 # 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
 * Principal factor de incidentes o accidentes
