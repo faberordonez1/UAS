@@ -450,14 +450,26 @@ Comprende el espacio aereono controlado F,G
 
 # 5. COMUNICACIONES AERONAUTICAS UAS (Lo define la OACI)
 * Alfabeto Aeronautico
+* Lo que cambia en las comunicaciones locales es el idioma ej espanol. pero internacional es ingles 90%
 * [Video instructivo comunicacion con torre control](https://www.youtube.com/watch?v=akvdcTHkl6o&t=142s) 17 Feb 2026
-* Quien, Donde y Que quiero
+* Quien, Donde y Que quiero (ser claro y breve)
 * Escuchar antes de hablar, hablar pausado
 * Colacionen la autorizacion de las frecuencias, es decir repitir lo que escuche o entendi.
 * Atencion a la frecuencia siempre
 * Pedir que se repita si no se entiende o incluso cambiar la fraseologia con el objetivo de comunicarse de forma correcta
 * Checkeo de los equipos de comunicacion y equipos adecuados (radio transmisor de aviacion)
-* Plan de vuelo autorizado aeronautica
+* Un transmisor y un receptor son los equipos encargados de enviar y recibir la informacion (bidireccional ida y vuelta).
+* Plan de vuelo autorizado aeronautica.
+* Comunicaciones Duplex
+  * (Simplex) una via
+  * (Half Duplex)  doble via
+  * (Full Duplex) simultaneo, varios transmisores y receptores
+* Frecuencias de uso comun
+ * Localizadores de emergencia VOR 406 MHz y 121.500MHz
+ * NDB (Distancia entre estacion en tierra al avion) 130 - 535 kHz
+ * VHF COM (Radio comunicacion verbal o hablada) 117.975 - 137.000 Local (del pais)
+ * VHF NAV (Comunicaciones de navegacion, instrumento con satelite y viceversa, radio navegacion VOR) 108.000 - 117.975 MHz (Indica distancia)
+ * Las frecuencias de una aeropuerto se encuentran en las cartas de aproximacion, la frecuencia ATIS es exclusiva repetir el METAR
 
 # 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
 * Principal factor de incidentes o accidentes
