@@ -475,34 +475,22 @@ Comprende el espacio aereono controlado F,G
 * Transponder 4096 Claves (Identificador del avion 4 digitos asignado por el controlador ATC)
 * AIP Colombia (Cartas de navegacion caolombia aerodromos controlados y no controlados)
 * Alfabeto fonetico Aeronautico
-   | Letra | Palabra | Pronunciación Sugerida |
-| :---: | :--- | :--- |
-| **A** | **Alpha** | Al-fa |
-| **B** | **Bravo** | Bra-vo |
-| **C** | **Charlie** | Char-li |
-| **D** | **Delta** | Del-ta |
-| **E** | **Echo** | E-co |
-| **F** | **Foxtrot** | Fox-trot |
-| **G** | **Golf** | Golf |
-| **H** | **Hotel** | Jo-tel |
-| **I** | **India** | In-di-a |
-| **J** | **Juliett** | Yu-li-et |
-| **K** | **Kilo** | Ki-lo |
-| **L** | **Lima** | Li-ma |
-| **M** | **Mike** | Ma-ic |
-| **N** | **November** | No-vem-ber |
-| **O** | **Oscar** | Os-car |
-| **P** | **Papa** | Pa-pa |
-| **Q** | **Quebec** | Ke-bec |
-| **R** | **Romeo** | Ro-me-o |
-| **S** | **Sierra** | Si-e-rra |
-| **T** | **Tango** | Tan-go |
-| **U** | **Uniform** | Yu-ni-form |
-| **V** | **Victor** | Vic-tor |
-| **W** | **Whiskey** | Wis-ki |
-| **X** | **X-ray** | Ex-rei |
-| **Y** | **Yankee** | Yan-ki |
-| **Z** | **Zulu** | Zu-lu | 
+
+| Letra | Palabra | Pronunc. | Letra | Palabra | Pronunc. |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **A** | Alpha | Al-fa | **N** | November | No-vem-ber |
+| **B** | Bravo | Bra-vo | **O** | Oscar | Os-car |
+| **C** | Charlie | Char-li | **P** | Papa | Pa-pa |
+| **D** | Delta | Del-ta | **Q** | Quebec | Ke-bec |
+| **E** | Echo | E-co | **R** | Romeo | Ro-me-o |
+| **F** | Foxtrot | Fox-trot | **S** | Sierra | Si-e-rra |
+| **G** | Golf | Golf | **T** | Tango | Tan-go |
+| **H** | Hotel | Jo-tel | **U** | Uniform | Yu-ni-form |
+| **I** | India | In-di-a | **V** | Victor | Vic-tor |
+| **J** | Juliett | Yu-li-et | **W** | Whiskey | Wis-ki |
+| **K** | Kilo | Ki-lo | **X** | X-ray | Ex-rei |
+| **L** | Lima | Li-ma | **Y** | Yankee | Yan-ki |
+| **M** | Mike | Ma-ic | **Z** | Zulu | Zu-lu |
 
 # 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
 * Principal factor de incidentes o accidentes
