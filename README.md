@@ -470,6 +470,39 @@ Comprende el espacio aereono controlado F,G
   * VHF COM (Radio comunicacion verbal o hablada) 117.975 - 137.000 Local (del pais)
   * VHF NAV (Comunicaciones de navegacion, instrumento con satelite y viceversa, radio navegacion VOR) 108.000 - 117.975 MHz (Indica distancia)
   * Las frecuencias de una aeropuerto se encuentran en las cartas de aproximacion, la frecuencia ATIS es exclusiva repetir el METAR
+* AFTN Red fija de telecomunicaciones aeronauticas en colombia, en cada pais existe una central (bogota principal) de esta salen las sub estaciones  o satelites a otros aeropuertos controlados
+* ADS-B Satelites comunicacion entre avion y avion. avion y satelite, avion y pista, radares (Comunicacion multidireccional)
+* Transponder 4096 Claves (Identificador del avion 4 digitos asignado por el controlador ATC)
+* AIP Colombia (Cartas de navegacion caolombia aerodromos controlados y no controlados)
+* Alfabeto fonetico Aeronautico
+   | Letra | Palabra | Pronunciación Sugerida |
+| :---: | :--- | :--- |
+| **A** | **Alpha** | Al-fa |
+| **B** | **Bravo** | Bra-vo |
+| **C** | **Charlie** | Char-li |
+| **D** | **Delta** | Del-ta |
+| **E** | **Echo** | E-co |
+| **F** | **Foxtrot** | Fox-trot |
+| **G** | **Golf** | Golf |
+| **H** | **Hotel** | Jo-tel |
+| **I** | **India** | In-di-a |
+| **J** | **Juliett** | Yu-li-et |
+| **K** | **Kilo** | Ki-lo |
+| **L** | **Lima** | Li-ma |
+| **M** | **Mike** | Ma-ic |
+| **N** | **November** | No-vem-ber |
+| **O** | **Oscar** | Os-car |
+| **P** | **Papa** | Pa-pa |
+| **Q** | **Quebec** | Ke-bec |
+| **R** | **Romeo** | Ro-me-o |
+| **S** | **Sierra** | Si-e-rra |
+| **T** | **Tango** | Tan-go |
+| **U** | **Uniform** | Yu-ni-form |
+| **V** | **Victor** | Vic-tor |
+| **W** | **Whiskey** | Wis-ki |
+| **X** | **X-ray** | Ex-rei |
+| **Y** | **Yankee** | Yan-ki |
+| **Z** | **Zulu** | Zu-lu | 
 
 # 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
 * Principal factor de incidentes o accidentes
