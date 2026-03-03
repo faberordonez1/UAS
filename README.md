@@ -448,10 +448,10 @@ Comprende el espacio aereono controlado F,G
 ### Elementos de coordenadas geograficas
 ### Plan Navegacion
 
-# 5. COMUNICACIONES AERONAUTICAS UAS (Lo define la OACI)
+# 5. COMUNICACIONES AERONAUTICAS UAS (Lo define la OACI) Jueves 12 Febrero
 * Alfabeto Aeronautico
 * Lo que cambia en las comunicaciones locales es el idioma ej espanol. pero internacional es ingles 90%
-* [Video instructivo comunicacion con torre control](https://www.youtube.com/watch?v=akvdcTHkl6o&t=142s) 17 Feb 2026
+* [Video instructivo comunicacion con torre control](https://www.youtube.com/watch?v=akvdcTHkl6o&t=142s) Martes 17 Feb 2026
 * Quien, Donde y Que quiero (ser claro y breve)
 * Escuchar antes de hablar, hablar pausado
 * Colacionen la autorizacion de las frecuencias, es decir repitir lo que escuche o entendi.
@@ -492,7 +492,22 @@ Comprende el espacio aereono controlado F,G
 | **L** | Lima | Li-ma | **Y** | Yankee | Yan-ki |
 | **M** | Mike | Ma-ic | **Z** | Zulu | Zu-lu |
 
-# 6. FACTORES HUMANOS (Jueves 24 Feb 2026)
+* Radiotelefonia DOC. 9432 OACI
+  * Antes de iniciar la transmision, haga escucha en la frecuencia que ha de utilizarse, para verificar que no habra interferencias con la transmision de otra estaci'on.
+  * Familiaricese con las tecnicas correctas de utilizacion del microfono.
+  * Emplea tono normal de conversacion y hable en forma clara e inteligible
+  * Mantenga una velocidad constante de diccion que no exceda de 100 palabras por minuto. Cuando sepa que el destinatario del mensaje habra de anotar los elementos del mensaje, hable m'as lentamente.
+  * Mantenga el volumen de diccion en un nivel constante.
+  * Una ligera pausa antes y despues de los numeros hara que sean mas faciles de entender
+  *  Evite emitir sonidos en momentos de duda tales como "humm", "este/o"
+  *  Familiaricese con la tecnica de manejo de microfono, especialmente en cuanto a mantener el microfono a una idstancia constante cuando no se util;iza un modulador con un nivel constyante.
+  *  Deje de hablar momentaneamente si hubiera necesidad de alejar la cabeza del microfono (ej toser, buscar algo ).
+  *  ANtes de empezar oprima a fondo ek interruptor del transmision y no lo suelte hasta terminar el mensaje. COn esto tendra la seguridad que se a transmitido la totalidad del mensaje.
+  *  La transmision de mensjaes largos debe ininterrumpirse momentaneamente de vez en cuando para permitir que el operador que realiza la trasmision confirme si la frecuencia que se utiliza es clara y , de ser necesario, para que el operador recipiente pida que se repitan las partes no recibidas.
+
+  ************* Jueves 19 Febrero *********
+
+# 6. FACTORES HUMANOS (Martes 24 Feb 2026)
 * Principal factor de incidentes o accidentes
 * Que es la accidentabilidad ?
   Es prevenir los accidentes
