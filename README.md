@@ -620,4 +620,28 @@ Organizacional Establece las pautas en una empresa
 Profesional
 Seguridad: Es una consecuencia no un proceso.
 
+# 7. SMS (Safety Managment Risk), Manejo de riesgos (Martes 3 Marzo 2026)
+* Es caro en su contruccion por que requiere analizar datos, investigacion para crearlo, definiciones.
+* Requisitos y normatividad OACI y Aeronautica civil
+* Necesidad den la seguridad operacional con apoyo en listas de chequeo.
+
+La aviacion sigue siendo algo extraordinario en lo ultimo del siglo debido a que todos los avances tecnologicos que se han ajustado a ello. Se ha trabajado paralelamente en temas de control y prevencion de los peligros para la seguridad operacional de la misma.
+
+Gracias a la aplicacion disciplinada de las mejores practicas de gestion de la seguridad operacional, la frecuencia de estos suceso ha disminuido considerablemente.
+
+## Gestion Riesgo Operacional
+* Accidente: Acontecimiento repentino inesperado que suele tener consecuencias negativas para alguien (ej muerte)
+* Incidente SUceso que tiene lugar de manera imprevista. Pero a diferencia del anterior no tiene porque ocasionar dano alguno en personas o cosas.
+
+### Objetivos de la Gestion Riesgo Operacional
+* Generar cultura sobre los SMS para evitar accidentes e incidentes gestion del riesgo que incremente el entendimiento, conciencia y actitud.
+* Proteger activos de la organizacion
+* Garantizar el exito de la operacion y del servicio.
+* Proteger a las personas y el medio ambiente.
+* Fomentar gestion proactiva.
+* Mejorar la eficacia y la eficiencia operativa.
+* Agregar valor a los procesos y a los productos.
+* ASignar los recursos para hacer frente a los riesgos con eficiencia.
+
+
 
