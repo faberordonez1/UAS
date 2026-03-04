@@ -643,5 +643,20 @@ Gracias a la aplicacion disciplinada de las mejores practicas de gestion de la s
 * Agregar valor a los procesos y a los productos.
 * ASignar los recursos para hacer frente a los riesgos con eficiencia.
 
+### Conceptos basicos de la seguridad operacional
+Estado en el que el riesgo de lesiones a las personas o danos a los vienes se reducen y se mantiene en un nivel aceptable, o por debajo del mismo. Por medio de un proceso continuo de identificacion de riesgos dependiendo de la perspectiva.
+* NInguna accidente (incidente grave)
+* Ausencia de peligros o riesgos
+* Actitud de los empleados con respecto a los actos y condiciones inseguras (cultura segura en la empresa).
+* Proceso de identificacion de peligros y gestion de riesgos.
+* Identificar la senalizaciones.
+* Control de perdida accidental (personas o danos ambientales).
+
+### Factores SMS (Identifiacion, analisis, planeacion,mitigacion y control)
+* Politicas y objetivos
+* Metas claras
+* Gestion riesgos y mantener la seguriadd en diferentes actividades y procesos.
+* Nombrar cargos.
+
 
 
