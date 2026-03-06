@@ -653,10 +653,42 @@ Estado en el que el riesgo de lesiones a las personas o danos a los vienes se re
 * Control de perdida accidental (personas o danos ambientales).
 
 ### Factores SMS (Identifiacion, analisis, planeacion,mitigacion y control)
+Conjunto de estrategias y procedimientos que se implementan para gestionar riesgos y mantener la segurida en diferentes actividades y procesos
 * Politicas y objetivos
 * Metas claras
 * Gestion riesgos y mantener la seguriadd en diferentes actividades y procesos.
 * Nombrar cargos.
+* Ser proactivo y no reactivo (es decir actuar antes de que suceda)
 
+### OACI
+La seguridad operacional ha sido siempre la coonsideracion primordial en las actividades de la aviacion con objetivos declarados en el articulo 44 del convenio sobre aviacion civil internacional mas conocido como el convenio de chicago en todo el mundo.
+
+El SMS debe contener
+* Notificacion de inciddentes
+* Investigacion de seguridad operacional
+* Auditorias de la seguridad operacional
+* Promocion de la seguridad operacional.
+
+#### Peligros y gestion de riesgo operacional
+Es una diciplina que se encuentra en auge dentro de mmultiples sectores de la industria, y que tienen como objetivo principal alcanzar una excelencia operacion creando a su vez un valor anadido.
+
+#### SMS Aplicado a drones
+Consiste en identificar de manera proactiva los peligros y mitigar los riesgos de seguridad.
+
+#### Apliaciones especiales
+* Clase B:  Incripcion del drone, manuales de operacion, pilotos certificado, poliza contra dano a terceros.
+* Clase A:Altitud de vuelo  aglomeraciones 50m, zonas militares 1km, presidente 2km, Aeropuerto 9km.
+
+#### Necesidad de la gestion de la seguridad operacional paara RPT
+Enfatizar en el uso de las lista de chequeos y buen uso de los equipos, la observacion anticipada de los posibles problemas que se puedan presentar entes durante y despues de las operaciones.
+
+#### Tipo de peligros
+* Condiciones metereologicas adversas (vientos fuertes, nubosidad, poca visibilidad)
+* Condiciones del equipo "estado de drone" (el equipo limpio, sin particulas de polvo, pasto etc. Helices en perfecto estado sin agrieturas, baterias cargadas para la operacion, con un remanente del 20 % y que no se encuentren infladas y control debidamente cargado)
+* Condiciones en elambiente diferente a metereologia (cables de alta tension)
+* Condiciones fisiologicas del piloto
+
+#### Lista Chequeo
+Se han venido desarrollando y mejorando a travez del tiempo conocemos que el error humano siempre puede ocurrir por cualquier motivo. Debido a esto, en grandes y pequenas de aviacion se han venido implementando unas listas de chequeo antes de cada operacion para tener la maxima certeza que todo en la lista se reviso y se cumplio.
 
 
