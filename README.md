@@ -505,11 +505,10 @@ Comprende el espacio aereono controlado F,G
   *  ANtes de empezar oprima a fondo ek interruptor del transmision y no lo suelte hasta terminar el mensaje. COn esto tendra la seguridad que se a transmitido la totalidad del mensaje.
   *  La transmision de mensjaes largos debe ininterrumpirse momentaneamente de vez en cuando para permitir que el operador que realiza la trasmision confirme si la frecuencia que se utiliza es clara y , de ser necesario, para que el operador recipiente pida que se repitan las partes no recibidas.
 
-  ************* Jueves 19 Febrero *********
-
-# 6. FACTORES HUMANOS (Martes 24 Feb 2026)
+# 6. FACTORES HUMANOS (Jueves 19 Febrero 2026)
+La OACI los define de la siguiente manera : Se refiere a las personas en su situacion de vida y trabajo, a su relacion con las maquinas con los procedemientos y con los ambientes que lo rodean, y se se refiera tambien a las relaciones con los demas.
 * Principal factor de incidentes o accidentes
-* Que es la accidentabilidad ?
+* Que es la accidentabilidad ?  
   Es prevenir los accidentes
   En la aviacion 3 de cada 4 accidentes son por errores humanos.
 * Los accidentes de dan por escasez de :
