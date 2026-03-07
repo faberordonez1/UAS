@@ -532,10 +532,12 @@ Se refiere especificamente a la falta de orientacion con respecto a la posicion,
 * Conciernen a las personas en sus ambientes de vida, trabajo y a sus relaciones con maquinas, equipos y procedimientos existentes.
 * Es la parte mas flexible, adaptable y valiosa del sistema de la aviacion,  pero tambien el mas vulnerable a influencias que puedan afectar su actuacion adversamente.
 * El humano es un factor que causa accidentes, es algo que no puede desaparecer.
+
 ### Que es la accidentabilidad ?  
 * Es prevenir los accidentes
 * En la aviacion 3 de cada 4 accidentes son por errores humanos.
-* Los accidentes de dan por escasez de :
+
+### Los accidentes de dan por escasez de :
  Conciencia situacional
  Comunicacion
  Recursos
