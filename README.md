@@ -508,6 +508,13 @@ Comprende el espacio aereono controlado F,G
 # 6. FACTORES HUMANOS (Jueves 19 Febrero 2026)
 La OACI los define de la siguiente manera : Se refiere a las personas en su situacion de vida y trabajo, a su relacion con las maquinas con los procedemientos y con los ambientes que lo rodean, y se se refiera tambien a las relaciones con los demas. (Factores humanos, Emocionales, Fisicos, COndiciones del entorno, Relacion Humano Maquina, Limitaciones Humanas, Cpacidades Humanas, Estado Mental)
 
+Factor humano es la influencia de las capacidades y limitaciones del ser humano
+
+Se definen como un campo multidiciplinario dedicado a:
+1. La optimizacion del rendimiento humano.
+2. Busca que los errores no se repitan
+3. A la reduccion de los errores en las operaciones aerreas.
+
 ## Sistema Sensorial
 Parte del sistema nervioso responsable de procesar la informacion sensorial. Esta formado por receptores sensoriales y partes del cerebro involucradas en la recepcion sensorial.Los principales sistemas sensoriales son: vista,oido,tacto,gusto y el olfato.
 
@@ -556,21 +563,23 @@ Se refiere especificamente a la falta de orientacion con respecto a la posicion,
 
 ### Definiciones Importantes
 1. EFICIENCIA: Obtener los resultados requeridos sin dificultad o esfuerzo excesivo.
-2. EFICACIA: Haber cumplido con el objetivo
-3. ERGONOMIA: Estudio de la eficiencia de las personas en sus ambientes de trabajo
+2. EFICACIA: Haber cumplido con el objetivo.
+3. ERGONOMIA: Estudio de la eficiencia de las personas en sus ambientes de trabajo.
+4. SEGURIDAD: Riesgo minimo de accidentes.
 
 ### Aplicacion de principios relativos a Factores Hummanos
 Se aplican al diseno, contenidos, procesamiento y distribucion de la informacion aeronautica, certificacion, instruccion y operaciones aeronauticas que buscan establecer una interfaz segura entre los componentes humanos y de otro tipo considerando factor humano.
 
 Para ello es importante que exista una perfecta interfaz "ser humano - tecnologia" para realizar tareas y funciones en la que se espera una alta eficiencia para obtener una excelente calidad.
 
-* CONCEPTO
-Factor humano es la influencia del ser humano
-
-* Automatizacion centrada en el Humano
+### Automatizacion centrada en el Humano
 Conjunto de conceptos que significa aautomatizacion disenada hacia el  trabajo cooperativo con operadores humanos en busca de objetivos.
 
-El elemento humano es la parte max flexible, adaptable y valiosa del sistema de la aviacion, pero tambien 
+El elemento humano es la parte max flexible, adaptable y valiosa del sistema de la aviacion, pero tambien el mas vulnerable a influencias que puedan afectar negativamente su comportamiento.
+
+Ninguna persona puede desempenar perfectamentesu trabajo en todo momento. Por lo tanto es importante la toma de conciencia del rol que se desempena para evitar cometer errores.
+
+Teoria de KAORU ISHIKAWA
 
 * Actuacion Humana
 En vista que losfactores humanos son el factor principal de accidentes aereos, la OACI mediante el estudio del hombre tiene como objetivo evitar error humano, por lo que se ha considerado importante tener en cuenta las capacidades y limitaciones humanas que repercuten en la seguridad y eficacia de las operaciones aeres.
