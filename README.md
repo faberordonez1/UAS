@@ -538,27 +538,29 @@ Se refiere especificamente a la falta de orientacion con respecto a la posicion,
 * En la aviacion 3 de cada 4 accidentes son por errores humanos.
 
 ### Los accidentes de dan por escasez de :
- Conciencia situacional
- Comunicacion
- Recursos
- Conocimientos
- Asertividad
- Trabajo en Equipo
- Motivacion
-* Existen abundancia de:
- Distracciones
- Presion
- Estres
- Fatiga
- Complacencia
- Prejuicios
-* DEFINICIONES IMPORTANTES
-EFICIENDIA: OBTENER LOS RESULTados requeridos sin dificultad o esfuerzo excesivo.
-EFICACIA: Haber cumplido con el objetivo
-ERGONOMIA: Estudio de la eficiencia de las personas en sus ambientes de trabajo
+ * Conciencia situacional
+ * Comunicacion
+ * Recursos
+ * Conocimientos
+ * Asertividad
+ * Trabajo en Equipo
+ * Motivacion
 
-Aplicacion de principios relativos a Factores Hummanos
-Se aplican al diseno, contenidos, procesamiento y distribucion de la informacion aeronautica,certificacion, instruccion y operaciones aeronauticas que buscan establecer una interfaz segura entre los componente humanos y de otro tipo de factor humano.
+#### Existen abundancia de:
+* Distracciones
+* Presion
+* Estres
+* Fatiga
+* Complacencia
+* Prejuicios
+
+### Definiciones Importantes
+1. EFICIENCIA: Obtener los resultados requeridos sin dificultad o esfuerzo excesivo.
+2. EFICACIA: Haber cumplido con el objetivo
+3. ERGONOMIA: Estudio de la eficiencia de las personas en sus ambientes de trabajo
+
+### Aplicacion de principios relativos a Factores Hummanos
+Se aplican al diseno, contenidos, procesamiento y distribucion de la informacion aeronautica, certificacion, instruccion y operaciones aeronauticas que buscan establecer una interfaz segura entre los componentes humanos y de otro tipo considerando factor humano.
 
 Para ello es importante que exista una perfecta interfaz "ser humano - tecnologia" para realizar tareas y funciones en la que se espera una alta eficiencia para obtener una excelente calidad.
 
