@@ -506,7 +506,27 @@ Comprende el espacio aereono controlado F,G
   *  La transmision de mensjaes largos debe ininterrumpirse momentaneamente de vez en cuando para permitir que el operador que realiza la trasmision confirme si la frecuencia que se utiliza es clara y , de ser necesario, para que el operador recipiente pida que se repitan las partes no recibidas.
 
 # 6. FACTORES HUMANOS (Jueves 19 Febrero 2026)
-La OACI los define de la siguiente manera : Se refiere a las personas en su situacion de vida y trabajo, a su relacion con las maquinas con los procedemientos y con los ambientes que lo rodean, y se se refiera tambien a las relaciones con los demas.
+La OACI los define de la siguiente manera : Se refiere a las personas en su situacion de vida y trabajo, a su relacion con las maquinas con los procedemientos y con los ambientes que lo rodean, y se se refiera tambien a las relaciones con los demas. (Factores humanos, Emocionales, Fisicos, COndiciones del entorno, Relacion Humano Maquina, Limitaciones Humanas, Cpacidades Humanas, Estado Mental)
+
+## Sistema Sensorial
+Parte del sistema nervioso responsable de procesar la informacion sensorial. Esta formado por receptores sensoriales y partes del cerebro involucradas en la recepcion sensorial.Los principales sistemas sensoriales son: vista,oido,tacto,gusto y el olfato.
+
+## Conciencia Situacional
+Es una representacion mental y comprension de los objetos, eventos, gente, estados de los sistemas, interacciones, condiciones ambientales y cualquier otro tipo de factores de una situacion especifica que puedan afectar al desarrollo de las tareas humanas, bien sean complejas o dinamicas.
+
+Formulado en terminos simples en la consiencia situacional el humano "sabe lo que ocurre para poder figurarse lo que debe hacer".Esto permite estar al tanto de cada cosa que sucede alrededor nuestro y poder preveer mejor lo que va a suceder.
+
+Es decir, volar un paso adelante del Drone y evitar que sucedan situaciones que nos tomen por sorpresa.
+
+## Desorientacion espacial
+Se refiere especificamente a la falta de orientacion con respecto a la posicion, actitud, o movimiento de las AERONAVE en el espacio. El cuerpo utiliza 3 sistemas integrados que trabajan juntos para determinar la orientacion y el movimiento en el espacio.
+
+* **Sistema Vestibular** Organos que se encuentran en el oido interno que determina la posicion por la forma en que se equilibran.
+* **Sistema somatosensorial** nervios de la piel, musculos, y articulaciones, que junto con la audicion, determinan la posicion en base a la gravedad,sensacion y sonido.
+*  **Sistema visual** Ojos que detectan la posicion sobre la base de lo que ven.
+
+ ## Percepcion de la profundidad (Martes 24 Febrero 2026)
+  
 * Principal factor de incidentes o accidentes
 * Que es la accidentabilidad ?  
   Es prevenir los accidentes
