@@ -532,9 +532,43 @@ Se refiere especificamente a la falta de orientacion con respecto a la posicion,
 * **Sistema somatosensorial** nervios de la piel, musculos, y articulaciones, que junto con la audicion, determinan la posicion en base a la gravedad,sensacion y sonido.
 *  **Sistema visual** Ojos que detectan la posicion sobre la base de lo que ven.
 
- ## Percepcion de la profundidad (Martes 24 Febrero 2026)
+ ## Percepcion de la profundidad  (Jueves 26 Febrero 2026 ) Min 15
+ La vision de objetos en 3 dimensiones se denomina percepcion de la profundidad nos permite calcular a que distancia se encuentran los objetos.
+ * ilusiones opticas por ansiedad, fatiga , estres etc
+ * Pueden afcetar los medicamentos (antigripales, antibioticos)
+ * La edad avanzada puede afectar la percepcion de profundidad
+ * La hipoxia ocasionada por la altura tambien afecta.
 
-## Consideraciones Importantes Factores Humanos 
+## Estres y fatiga
+* **Estres**: Es la respuesta del cuerpo a las demandas fisicas y psicologicas que se le plantean. La reaccion del cuerpo al estres incluye la liberacion de hormonas (como la adrenalina) en la sangre y aumentar el metabolismo para proporcionar mas energia a los musculos.
+* **Fatiga Fisica**: Resulta por la perdida de sueno, ejercicio o trabajo fisico.
+Factores como el estres y el rendimiento del trabajo cognitivo prolongado resulta en fatiga mental.
+Algunos de los efectos de la fatiga son la degradacion de la atencion y concentracion, deterioro de la coordinacion y disminucion de la capacidad para comunicarse. Estos factores influyen seriamente en la capacidad para tomar desiciones efectivas.
+
+## Deshidratacion e insolacion
+* Deshiddratacion es el termino dado a la perdida critica de agua en el cuerpo. Laas causas de la deshidratacion son cabinas calientes, viento, humedad y bebidas dieureticas, cafe,te, alcohol y bebidas como cafeina.
+* Algunos signos comunes de deshidratacion son dolor de cabeza, fatiga, calambres, somnolencia y mareos.
+
+## Alcohol
+La influencia de alcohol reduce drasticamente las posibilidades de completar el vuelo sin incidentesntes. incluso en pequenas cantidades, el alcohol puede alterar el juicio, disminuir el sentido de responsabilidad, afectar la cordinacion, reduce el campo visual, disminuir la memoria, reduce el poder de racionamiento y baja la capacidad de atencion. 
+
+Tan poco como 30ml de alcohol pueden disminuir la velocidad y fuerza de los reflejos musculares, disminuir la eficiencia de los movimientos oculares durante la lectura y aumentar la frecuencia a la que se cometen errores.
+
+## Medicamentos y alucinogenos
+* **Medicamentos** EL rendimiento de los pilotos puede ser seriamente degradado tanto por los medicamentos recetados como de venta libre, asi como tranquilizantes, sedantes, fuertes analgesicos y antitusivos tienen efectos primarios que pueden perjudicar el juicio, la memoria, la atencion ,la coordinacion,la vision y la capacidad de hacer calculos.
+
+* **Alucinogenos** : Ciertas drogas ilegales pueden tener efectos alucinogenos que se producen dias o semanas despues de tomar droga. Obviamente, estas drogas no tienen lugar en la comunidad de la aviacion.
+
+## Trabajo en equipo
+Se defgine comola union de 2 o mas personas organizadas de una forma determinada, las cuales cooperan para lograr un fin comun que es la ejecucion de un proyecto.
+* **Comunicacion interpersonal** Se da entre 2 personas que estan fisicamente proximas. Cada una de las personas produce mensajes. Es una relacion de intercambio por medio de la cual 2 o mas personas comparten su percepcion de la realidad. Lo comunicacion interpersonal: Transmision informacion.
+
+## Regimen Sancionatorio
+El operador es a quien mas sancionan con multas
+* Alcohol y drogas
+* Violacion de procedimientos y reglas
+
+## Consideraciones Importantes Factores Humanos (Martes 24 Febrero 2026)
 * Es el principal factor de incidentes o accidentes.
 * Conciernen a las personas en sus ambientes de vida, trabajo y a sus relaciones con maquinas, equipos y procedimientos existentes.
 * Es la parte mas flexible, adaptable y valiosa del sistema de la aviacion,  pero tambien el mas vulnerable a influencias que puedan afectar su actuacion adversamente.
