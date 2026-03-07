@@ -581,80 +581,114 @@ Ninguna persona puede desempenar perfectamentesu trabajo en todo momento. Por lo
 
 Teoria de KAORU ISHIKAWA
 
-* Actuacion Humana
-En vista que losfactores humanos son el factor principal de accidentes aereos, la OACI mediante el estudio del hombre tiene como objetivo evitar error humano, por lo que se ha considerado importante tener en cuenta las capacidades y limitaciones humanas que repercuten en la seguridad y eficacia de las operaciones aeres.
-* Factores COntribuyentes
-FISICOS: Enfermendades, lesiones, deficiencias fisiologicas
+> [!IMPORTANT]
+> Para que el personal cumpla consus objetivos dentro de la actividad aeronautica debera:
+> * Estar capacitado, entrenado y actualizado con su procedimientos en el trabajo.
+> * Trabajar con responsabilidad y eficiencia.
 
-* Fallas en los factores humanos
-Debido al constante progreso tecnologico, la fallas del equipo principal o errores del personal operacional rara vez son la causa fundamental de los desperfectos
+### Actuacion Humana
+En vista que los factores humanos son el factor principal de accidentes aereos, la OACI mediante el estudio del hombre tiene como objetivo evitar error humano, por lo que se ha considerado importante tener en cuenta las capacidades y limitaciones humanas que repercuten en la seguridad y eficacia de las operaciones aeres.
 
-* Se pueden considerar fallas como
-Activas: Errores y violiaciones que tienen un efecto adverso inmediato
-Latentes:
+Conciencia de la seguridad y de la existencia de los FFHH (Teoria de PETER SENGE)
 
-* Entorno Laboral
-Disponer de informacion actualizada.
-Tener lugar adecuado para proporcionar la informacion necesaria sin interferencias (Se esta diciendo algo y por alguna distraccion se dice otra o nos olvidaamos lo que tenemos que decir).
-Contar con un espacio suficiente
-El mobiliario que se dispone debe estar bien ubicado.
-Equipo funcionando en optimas condiciones.
-Sistemas de iluminacion adecuado.
-Fortalecer las relaciones interpersonales.
+### Factores Contribuyentes
+1. FISICOS: Enfermendades, lesiones, deficiencias fisiologicas, factores ambientales, (temperatura ,humedad, etc), factores indivduales (calor,fatiga,habitos de sueno etc.)
+2. BIOLOGICOS: Enfermedades, lesiones cronicas o deficiencias fisiologicas permanentes.
+3. PSICOLOGICOS:  Percepcion, motivacion y satisfaccion laboral, emocion complacencia, o exceso de confianza, autodisciplina.
 
-### * Conciencia situacional
-PERCEpcion de lo que pasa alrededor
-Comprender lo que esta pasando (ejemplo viento humedo puede llover)
-Preveerlo que sucedera
+### Fallas en los factores humanos
+Debido al constante progreso tecnologico, la fallas del equipo principal o errores del personal operacional rara vez son la causa fundamental de los desperfectos en las defensas relativas a la seguridad del sistema.
+
+En cambio dichos desperfectos son consecuencia de falla de toma de desicion humana que se produce principalmente en las esferas de la direccion.
+
+Muchas veces se le ensena o indica al personal a hacer las cosas de mala manera.
+
+Teoria de J. Hintze, "La desorganizacion optima"
+
+#### Se pueden considerar fallas como
+*  **Activas**: Errores y violiaciones que tienen un efecto adverso inmediato.
+*  **Latentes**: Son las desiciones o medidad cuyas consecuencias pueden permanecer latentes durante largo tiempo.
+
+Edward Lorenz : La teoria del caos y los sistemas dinamicos 1963 (estables, inestables y caoticos).
+
+### Entorno Laboral
+Es parte de la ergonomia (la eficiencia de las personas en el lugar de trabajo), el rendimiento y el comportamiento humano dentro del sistema  (hombre-maquina).
+
+La actuacion y la interaccion entre todo el personal que labora en la industria aeronautica dependera de :
+
+* Disponer de informacion actualizada.
+* Tener lugar adecuado para proporcionar la informacion necesaria sin interferencias (Se esta diciendo algo y por alguna distraccion se dice otra o nos olvidaamos lo que tenemos que decir).
+* Contar con un espacio suficiente.
+* El mobiliario que se dispone debe estar bien ubicado.
+* Equipo funcionando en optimas condiciones.
+* Sistemas de iluminacion adecuado.
+* Fortalecer las relaciones interpersonales.
+
+###  Conciencia situacional
+* Percepcion de lo que pasa alrededor
+* Comprender lo que esta pasando (ejemplo viento humedo puede llover)
+* Preveerlo que sucedera
 Todo esto es necesario para no ser sorprendido
 
-* Indicios perdida de conciencia situacional
-  Perdida real de lo que se percibe.
-  No cumplimiento de los procedimientos.
-  Violacion de los procediminetos estandarizados.
-  Sensaciones de alarma.
+##### Indicios perdida de conciencia situacional
+* Perdida real de lo que se percibe.
+* No cumplimiento de los procedimientos.
+* Violacion de los procediminetos estandarizados.
+* Sensaciones de alarma.
 
-* Que debemos considerar
-Prestar atencion a la informacion correcta en el momento preciso.
-Si algo te parece no estar bien, manefestarlo
-Tener cuidado con el aburrimiento
-Cuidarse de los malos habitos, son dificiles de romper.
-Esperar que suceda algo reduce la conciencia situacional.
-Tener objetivos y tiempos concretos para realizar una tarea.
-Los sistemas fiables no siempre son correctos
-Los automatismos contienen secretos y peligrosos
-Considerar que la distraccion tiene diversas formas.
+##### Que debemos considerar
+* Prestar atencion a la informacion correcta en el momento preciso.
+* Si algo te parece no estar bien, manefestarlo.
+* Tener cuidado con el aburrimiento.
+* Cuidarse de los malos habitos, son dificiles de romper.
+* Esperar que suceda algo reduce la conciencia situacional.
+* Tener objetivos y tiempos concretos para realizar una tarea.
+* Los sistemas fiables no siempre son correctos.
+* Los automatismos contienen secretos y peligrosos.
+* Considerar que la distraccion tiene diversas formas.
 
-Saber o no saber ?
-Que saben los otros que necesito saber y a la inversa.
-Que es lo que ninguno sabemos y todos necesitamos saber.
+##### Saber o no saber ?
+* Que saben los otros que necesito saber y a la inversa.
+* Que es lo que ninguno sabemos y todos necesitamos saber.
 
-* Entorno o el ambiente
-Estres vital
-EStres ambiental
-EStres cognitivo
+#### Entorno o el ambiente
+Se ha comprobado que el entorno o ambiente que nos rodea es un factor muy importante para el buen desempeno y una mayor eficiencia del trabajador. Sin embargo podemos determinar que factores pueden afectar adversamente a la toma de desciciones y pueden ser :
+* **Estres vital**: Producido por sucesos adversos en la vida de las personas (Divorcios, muerte de un familiar etc.)
+* **EStres ambiental**: Producido por la temperatura, la humedad, el ruido, presion, iluminacion, etc.
+* **Estres cognitivo**:Atane a las exigencias cognitivas (mentales) de la tarea propiamente dicha.
 
-* Medicamentos o narcoticos
-Farmacos que afecten adversamente en la toma de decisiciones
+#### Medicamentos o narcoticos
+Existen un sin numero de medicamentos que no solo se utilizan para combatir una dolencia, y otros que son usados de manera preventiva como vacunas y otros, podrian afectar el rendimiento de las personas.
 
-* Seleccion de personal
-Importante para reducir efectos de factores humanos es verficar la calidad del personal ingresado y encargado  de realizar alguna actividdad.
+Farmacos que afecten adversamente en la toma de decisiciones.
 
-* Modelo SHELL
-S -> Software
-H -> Hardware
-E -> Environment en otrono
-L - > Liveware Persona (Centro del modelo)
+#### Seleccion de personal
+Importante para reducir efectos de factores humanos es verficar la calidad del personal ingresado y encargado  de realizar alguna actividdad. Esto se deberia jecutar de acuerdo a lo estipulado en la reglamentacion.
 
-* Importacia de la cultura enla seguridad operacional
-Reune a la gente como miembros de un grupo y da pautas de  comportamiento en situaciones normales e inusuales
-Influye en los valores, creencias y comportamiento de las personas que comparten entre si.
+#### Modelo SHELL
+Permite comprender relacion entre la gente y los contextos operacionales, en este modelo la persona es el centro del modelo. Los demas elementos deben adaptarse a ella, ayudarle y respetar sus limitaciones.
 
-* 3 Tipos De Cultura
-Nacional
-Organizacional Establece las pautas en una empresa
-Profesional
-Seguridad: Es una consecuencia no un proceso.
+"No existe ser humano perfecto, el ser humano comete errores permanentemente. Errar es humano"
+
+* S -> Software (Procedimiento, manuales, checklist ,etc)
+* H -> Hardware(Herramienta, euipo de ensayo, diseno del avion, controles, intrumentos, equipos de tech en general).
+* E -> Environment el entorno (Condiciones en angares, plataformas, lugares de trabajo, estructuras de gestion, la organizacion com tal, etc.)
+* L - > Liveware Persona (Centro del modelo) Tripulacion mantemiento, trafico, despacho, operaciones en tierra, adminstrativas etc.
+* L - > Liveware Referente a otras personas
+
+|  | S|  | 
+|--|--|--|
+| H| L|L |
+|  |E |  |
+   
+#### Importacia de la cultura enla seguridad operacional
+Reune a la gente como miembros de un grupo y da pautas de  comportamiento en situaciones normales e inusuales. Influye en los valores, creencias y comportamiento de las personas que comparten entre si.
+
+##### 3 Tipos De Cultura de la avicion
+* **Organizacional** Establece las pautas para un comportamiento aceptable en una empresa. Provee unmarco de referencia para la toma de desiciones dentro de la organizacion
+* **Profesional** Conocimiento
+* **Nacional** Ejemplo cultura en algunaas zoans del pais.
+* **Seguridad**: Es una consecuencia, no un proceso. No puede ser impuesta, es una consecuencia de un proceso evolutivo. Se genera de arriba hacia abajo.
 
 # 7. SMS (Safety Managment Risk), Manejo de riesgos (Martes 3 Marzo 2026)
 * Es caro en su contruccion por que requiere analizar datos, investigacion para crearlo, definiciones.
