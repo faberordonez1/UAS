@@ -526,11 +526,15 @@ Se refiere especificamente a la falta de orientacion con respecto a la posicion,
 *  **Sistema visual** Ojos que detectan la posicion sobre la base de lo que ven.
 
  ## Percepcion de la profundidad (Martes 24 Febrero 2026)
-  
-* Principal factor de incidentes o accidentes
-* Que es la accidentabilidad ?  
-  Es prevenir los accidentes
-  En la aviacion 3 de cada 4 accidentes son por errores humanos.
+
+## Consideraciones Importantes Factores Humanos 
+* Es el principal factor de incidentes o accidentes.
+* Conciernen a las personas en sus ambientes de vida, trabajo y a sus relaciones con maquinas, equipos y procedimientos existentes.
+* Es la parte mas flexible, adaptable y valiosa del sistema de la aviacion,  pero tambien el mas vulnerable a influencias que puedan afectar su actuacion adversamente.
+* El humano es un factor que causa accidentes, es algo que no puede desaparecer.
+### Que es la accidentabilidad ?  
+* Es prevenir los accidentes
+* En la aviacion 3 de cada 4 accidentes son por errores humanos.
 * Los accidentes de dan por escasez de :
  Conciencia situacional
  Comunicacion
