@@ -795,4 +795,55 @@ Enfatizar en el uso de las lista de chequeos y buen uso de los equipos, la obser
 #### Lista Chequeo
 Se han venido desarrollando y mejorando a travez del tiempo conocemos que el error humano siempre puede ocurrir por cualquier motivo. Debido a esto, en grandes y pequenas de aviacion se han venido implementando unas listas de chequeo antes de cada operacion para tener la maxima certeza que todo en la lista se reviso y se cumplio.
 
+* Se debe hacer antes,al inciar y despues.  
+* [Check List](https://www.youtube.com/watch?v=IWMEzDcteko).
+
+##### Planeacion Mision (Casa)
+* Bateria Drone
+* Bateria Control
+* Helices
+* Drone
+* Pantallas (Monitores)
+* Estacion terrena (Computadora, antenas, mastelis, mesas, carpas, lentes del sol, cascos)
+* Herramientas
+* Repuestos
+* Condiciones metereologicas
+
+##### Prevuelo en Terreno
+* Proceso checklist prevuelo
+* Verificar puntos operacion
+* Condiciones metereologicas
+* Planimetria de operacion (Obstaculos)
+* Determinacion de home
+* Determinacion de estacion terrena
+* Puntos de observacion y control (Observadores)
+* Armar / posicionar estacion terrena
+* Armado RPAS
+* Aseguracion de estructura
+* Instalar antenas
+* Conectar estacion terrena
+* GPS
+* RADIOMANDOS
+* CALIBRACION
+* Intalacion Helices
+* Intalaciion Baterias
+* Peso y balance
+
+###### Post-Vuelo Terreno
+* Apagar motores y aeronave
+* Apagar Radio y control
+* Bitacora de vuelo (Lo que se hizo)
+* Validar informacion registrada por drone
+* Checklist 360 grados
+* Verificar conexiones
+* Verificar estructura
+* Movimiento y mecanismos moviles
+* Verificar elementos operativo a bordo
+* Fin Mision
+* Nueva mision
+* Desarme drone
+* Extraer equipos auxiliares
+* Extraer antenas
+* Desasegurar
+
 
