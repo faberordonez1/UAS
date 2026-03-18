@@ -846,4 +846,9 @@ Se han venido desarrollando y mejorando a travez del tiempo conocemos que el err
 * Extraer antenas
 * Desasegurar
 
+# 8. Regalemntos Aeronauticos (RAC100)  17 MARZO 2026
+* Aplica a partir 27 Sept 2023.
+* Colombia pertenece a la OACI y debe cumplir, acatar difundir todo lo establecido por esta organizacion.
+* Los drones son aeronaves y ocupan en el espacio aereo por ende tienen un reglamento.
+
 
